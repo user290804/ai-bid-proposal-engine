@@ -1,0 +1,1695 @@
+{
+    "sample-workspace-1": {
+        "id": "sample-workspace-1",
+        "name": "Sample Telecom Network Expansion",
+        "sector": "Construction",
+        "budget": 10.0,
+        "deadline": "2026-12-31",
+        "compliance_pct": 50.0,
+        "win_probability": 70.0,
+        "status": "GO",
+        "manual_hours_saved": 19.0,
+        "requirements": [
+            {
+                "text": "In the event of any conflict or inconsistency in terms and conditions of the RFQ and the KRN Policy and Procedures, the KRN Policy and Procedures shall prevail.",
+                "status": "Pending",
+                "matched_cap": null,
+                "score": 0.0
+            },
+            {
+                "text": "Each bidder shall be responsible for conducting its own investigation and analysis and should check the accuracy, reliability and completeness of this RFQ and where necessary obtain independent advice.",
+                "status": "Pending",
+                "matched_cap": null,
+                "score": 0.0
+            },
+            {
+                "text": "In case of conflict between the provisions of this RFQ and A ddendum(s) to the RF Q, the provisions of this RFQ shall prevail unless stated otherwise.",
+                "status": "Pending",
+                "matched_cap": null,
+                "score": 0.0
+            },
+            {
+                "text": "In case of any conflict between the provisions of this RF Q, the decision of Karandaaz Pakistan shall be final regarding the overriding effect of the respective provision.",
+                "status": "Pending",
+                "matched_cap": null,
+                "score": 0.0
+            },
+            {
+                "text": "PAGE 3 --- 2 The entire set s of documents, as mentioned in Clause 11 Section 2 must be submitted in hard copies and in electronic format through email with subject: “Supply, Installation, and Maintenance of Enterprise Routers” on or before 18th June 2026.",
+                "status": "Pending",
+                "matched_cap": null,
+                "score": 0.0
+            },
+            {
+                "text": "Bidders must prepare four hard copies of the technical proposal and four hard copies of the financial proposal, and submit them in four separate sealed envelopes to the attention of ‘The Procurement Department’ 1 -E, Ali Plaza, D Chowk, Mezzanine Floor, Nazimuddin Road, Blue Area, Islamabad, Pakistan.",
+                "status": "Pending",
+                "matched_cap": null,
+                "score": 0.0
+            },
+            {
+                "text": "Bidders must also submit electronic copies of technical & financial proposals in four separate folders through email at procurement@karandaaz.com.pk.",
+                "status": "Pending",
+                "matched_cap": null,
+                "score": 0.0
+            },
+            {
+                "text": "Bidders must submit password protected electronic copies of financial proposal.",
+                "status": "Pending",
+                "matched_cap": null,
+                "score": 0.0
+            },
+            {
+                "text": "“Day” means calendar day 2 Fraud and Corruption Bidders shall comply with Karandaaz Pakistan’s policy regarding fraud and corruption set out in Section 3 of the RFQ.",
+                "status": "Pending",
+                "matched_cap": null,
+                "score": 0.0
+            },
+            {
+                "text": "Bidders shall be under an obligation to disclose to Karandaaz Pakistan any situation of actual or potential conflict that impacts their capacity to perform/act in accordance with Karandaaz Pakistan’s best interests or pose a conflict of interest.",
+                "status": "Pending",
+                "matched_cap": null,
+                "score": 0.0
+            }
+        ],
+        "drafts": {},
+        "is_deleted": true,
+        "draft_reviews": {
+            "Bidder requires ISO 27001 information security certification.": {
+                "approval_status": "approved",
+                "reviewer_comment": "",
+                "edited_after_approval": false
+            }
+        }
+    },
+    "08628497-5d4a-4d33-906c-8ae5a7b91eb0": {
+        "id": "08628497-5d4a-4d33-906c-8ae5a7b91eb0",
+        "name": "testing",
+        "sector": "Construction",
+        "budget": 10.0,
+        "deadline": "2026-12-31",
+        "compliance_pct": 100.0,
+        "win_probability": 61.0,
+        "status": "GO",
+        "manual_hours_saved": 4.0,
+        "requirements": [
+            {
+                "text": "project summaries, certifications, CVs, case studies).",
+                "status": "Pass",
+                "matched_cap": "CAP-001",
+                "score": 0.1409,
+                "evidence": {
+                    "cap_id": "CAP-001",
+                    "domain": "Cybersecurity",
+                    "summary": "Project 1: Cybersecurity deployment for client",
+                    "certification": "ISO 27001",
+                    "year_completed": 2023,
+                    "contract_value": "PKR 15M",
+                    "client_type": "International"
+                }
+            }
+        ],
+        "drafts": {
+            "project summaries, certifications, CVs, case studies).": "In response to the requirement: 'project summaries, certifications, CVs, case studies).', our organization proposes our verified capability developed under project reference CAP-001 in the 'Cybersecurity' domain. Specifically, we executed: 'Project 1: Cybersecurity deployment for client'. This project was successfully completed in 2023 for an International client with a contract value of PKR 15M which is further supported by our ISO 27001 certification. We will apply the same proven methodologies and technical frameworks to guarantee successful delivery for this contract."
+        },
+        "is_deleted": true
+    },
+    "a12e084e-9869-4167-81a3-3ea7189fa7f7": {
+        "id": "a12e084e-9869-4167-81a3-3ea7189fa7f7",
+        "name": "Bank System",
+        "sector": "Construction",
+        "budget": 12.0,
+        "deadline": "2026-12-31",
+        "compliance_pct": 100.0,
+        "win_probability": 61.0,
+        "status": "GO",
+        "manual_hours_saved": 4.0,
+        "requirements": [
+            {
+                "text": "project summaries, certifications, CVs, case studies).",
+                "status": "Pass",
+                "matched_cap": "CAP-001",
+                "score": 0.1409,
+                "evidence": {
+                    "cap_id": "CAP-001",
+                    "domain": "Cybersecurity",
+                    "summary": "Project 1: Cybersecurity deployment for client",
+                    "certification": "ISO 27001",
+                    "year_completed": 2023,
+                    "contract_value": "PKR 15M",
+                    "client_type": "International"
+                }
+            }
+        ],
+        "drafts": {
+            "project summaries, certifications, CVs, case studies).": "In response to the requirement: 'project summaries, certifications, CVs, case studies).', our organization proposes our verified capability developed under project reference CAP-001 in the 'Cybersecurity' domain. Specifically, we executed: 'Project 1: Cybersecurity deployment for client'. This project was successfully completed in 2023 for an International client with a contract value of PKR 15M which is further supported by our ISO 27001 certification. We will apply the same proven methodologies and technical frameworks to guarantee successful delivery for this contract."
+        },
+        "is_deleted": true
+    },
+    "99593e35-0633-44a4-92d9-419de7e28408": {
+        "id": "99593e35-0633-44a4-92d9-419de7e28408",
+        "name": "AI Bid Engine",
+        "sector": "Telecom",
+        "budget": 22.0,
+        "deadline": "2026-12-31",
+        "compliance_pct": 50.0,
+        "win_probability": 70.0,
+        "status": "GO",
+        "manual_hours_saved": 5.0,
+        "requirements": [
+            {
+                "text": "Vendor must implement secure single sign-on authentication for all user profiles.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Bidder requires ISO 27001 information security certification.",
+                "status": "Pass",
+                "matched_cap": "CAP-001",
+                "score": 0.3975,
+                "evidence": {
+                    "cap_id": "CAP-001",
+                    "domain": "Cybersecurity",
+                    "summary": "Project 1: Cybersecurity deployment for client",
+                    "certification": "ISO 27001",
+                    "year_completed": 2023,
+                    "contract_value": "PKR 15M",
+                    "client_type": "International"
+                }
+            },
+            {
+                "text": "The database shall encrypt data at rest using AES-256 standard.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "System must support 24/7 technical helpdesk support.",
+                "status": "Pass",
+                "matched_cap": "CAP-024",
+                "score": 0.3836,
+                "evidence": {
+                    "cap_id": "CAP-024",
+                    "domain": "Cloud Infrastructure",
+                    "summary": "Project 24: Cloud Infrastructure deployment for client",
+                    "certification": "CE Mark",
+                    "year_completed": 2020,
+                    "contract_value": "PKR 158M",
+                    "client_type": "Provincial Govt"
+                }
+            }
+        ],
+        "drafts": {
+            "Vendor must implement secure single sign-on authentication for all user profiles.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Vendor must implement secure single sign-on authentication for all user profiles.'.",
+            "Bidder requires ISO 27001 information security certification.": "Regarding the requirement for 'Bidder requires ISO 27001 information security certification.', we will apply our successful experience from project CAP-001 in the 'Cybersecurity' domain. For that project, we delivered: 'Project 1: Cybersecurity deployment for client'. This was completed in 2023 for an International client with a contract value of PKR 15M (which is backed by our ISO 27001 certification). We will bring this same reliable approach and expertise to ensure your project succeeds.",
+            "The database shall encrypt data at rest using AES-256 standard.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'The database shall encrypt data at rest using AES-256 standard.'.",
+            "System must support 24/7 technical helpdesk support.": "Regarding the requirement for 'System must support 24/7 technical helpdesk support.', we will apply our successful experience from project CAP-024 in the 'Cloud Infrastructure' domain. For that project, we delivered: 'Project 24: Cloud Infrastructure deployment for client'. This was completed in 2020 for an Provincial Govt client with a contract value of PKR 158M (which is backed by our CE Mark certification). We will bring this same reliable approach and expertise to ensure your project succeeds."
+        },
+        "is_deleted": true
+    },
+    "2f45a698-12bd-4442-9618-d4b9307c80a8": {
+        "id": "2f45a698-12bd-4442-9618-d4b9307c80a8",
+        "name": "RoadBounce",
+        "sector": "Construction",
+        "budget": 10.0,
+        "deadline": "2026-12-31",
+        "compliance_pct": 50.0,
+        "win_probability": 77.0,
+        "status": "GO",
+        "manual_hours_saved": 5.0,
+        "requirements": [
+            {
+                "text": "Table 21: Functional Requirements for RoadBounce Data Acquisition ID Name Description Type FR1 Sensor Data Collection The system shall collect real-time sensor data (accelerometer, gyroscope, and GPS) continuously while the vehicle is in motion.",
+                "status": "Pass",
+                "matched_cap": "CAP-021",
+                "score": 0.4055,
+                "evidence": {
+                    "cap_id": "CAP-021",
+                    "domain": "Network Design",
+                    "summary": "Project 21: Network Design deployment for client",
+                    "certification": "N/A",
+                    "year_completed": 2025,
+                    "contract_value": "PKR 44M",
+                    "client_type": "Private Sector"
+                }
+            },
+            {
+                "text": "Core FR2 GPS Data Tracking The system shall include GPS position (latitude, longitude), speed, and time when a sensor measures data and then plots the anomalies.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Core FR3 Sensor Calibration The system shall first calibrate the sensors (i.e.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Supportive FR4 Environmental Adaptation The system shall filter out false alerts caused by uphill or downhill slopes by adjusting sensor data.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "It shall not raise false alarms when vehicle is at slower speeds or for engine vibrations, but only for high speeds.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Core Data Cleaning and Filtering FR5 Bandpass Filter Application The system shall use Bandpass Filtering of sensor data to separate the signal of road-induced vibration by eliminating low-frequency vehicle body motion and high-frequency sensor noise.",
+                "status": "Pass",
+                "matched_cap": "CAP-003",
+                "score": 0.6669,
+                "evidence": {
+                    "cap_id": "CAP-003",
+                    "domain": "Road Construction",
+                    "summary": "Project 3: Road Construction deployment for client",
+                    "certification": "ISO 27001",
+                    "year_completed": 2020,
+                    "contract_value": "PKR 177M",
+                    "client_type": "Federal Govt"
+                }
+            },
+            {
+                "text": "Core FR6 Road Condition Classification To detect anomalies, the system shall run a trained machine learning model (1D CNN) on the filtered sensor data and categorize it accordingly.",
+                "status": "Pass",
+                "matched_cap": "CAP-003",
+                "score": 0.6669,
+                "evidence": {
+                    "cap_id": "CAP-003",
+                    "domain": "Road Construction",
+                    "summary": "Project 3: Road Construction deployment for client",
+                    "certification": "ISO 27001",
+                    "year_completed": 2020,
+                    "contract_value": "PKR 177M",
+                    "client_type": "Federal Govt"
+                }
+            },
+            {
+                "text": "Core Road Anomaly Detection FR7 Road Vibration Analysis The system shall process accelerometer and gyroscope data to recognize patterns that indicate a road anomaly using vibration thresholds.",
+                "status": "Pass",
+                "matched_cap": "CAP-003",
+                "score": 0.6669,
+                "evidence": {
+                    "cap_id": "CAP-003",
+                    "domain": "Road Construction",
+                    "summary": "Project 3: Road Construction deployment for client",
+                    "certification": "ISO 27001",
+                    "year_completed": 2020,
+                    "contract_value": "PKR 177M",
+                    "client_type": "Federal Govt"
+                }
+            },
+            {
+                "text": "Core FR8 Anomaly Marking and Storage The system shall mark each identified road anomaly with GPS coordinates in real time and store the data locally for each anomaly.",
+                "status": "Pass",
+                "matched_cap": "CAP-003",
+                "score": 0.5303,
+                "evidence": {
+                    "cap_id": "CAP-003",
+                    "domain": "Road Construction",
+                    "summary": "Project 3: Road Construction deployment for client",
+                    "certification": "ISO 27001",
+                    "year_completed": 2020,
+                    "contract_value": "PKR 177M",
+                    "client_type": "Federal Govt"
+                }
+            },
+            {
+                "text": "Core Communication and Data Handling FR9 Data Transmission The system shall send collected data to the central server via Wi-Fi regularly.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            }
+        ],
+        "drafts": {
+            "Table 21: Functional Requirements for RoadBounce Data Acquisition ID Name Description Type FR1 Sensor Data Collection The system shall collect real-time sensor data (accelerometer, gyroscope, and GPS) continuously while the vehicle is in motion.": "Regarding the requirement for 'Table 21: Functional Requirements for RoadBounce Data Acquisition ID Name Description Type FR1 Sensor Data Collection The system shall collect real-time sensor data (accelerometer, gyroscope, and GPS) continuously while the vehicle is in motion.', we will apply our successful experience from project CAP-021 in the 'Network Design' domain. For that project, we delivered: 'Project 21: Network Design deployment for client'. This was completed in 2025 for an Private Sector client with a contract value of PKR 44M. We will bring this same reliable approach and expertise to ensure your project succeeds.",
+            "Core FR2 GPS Data Tracking The system shall include GPS position (latitude, longitude), speed, and time when a sensor measures data and then plots the anomalies.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Core FR2 GPS Data Tracking The system shall include GPS position (latitude, longitude), speed, and time when a sensor measures data and then plots the anomalies.'.",
+            "Core FR3 Sensor Calibration The system shall first calibrate the sensors (i.e.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Core FR3 Sensor Calibration The system shall first calibrate the sensors (i.e.'.",
+            "Supportive FR4 Environmental Adaptation The system shall filter out false alerts caused by uphill or downhill slopes by adjusting sensor data.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Supportive FR4 Environmental Adaptation The system shall filter out false alerts caused by uphill or downhill slopes by adjusting sensor data.'.",
+            "It shall not raise false alarms when vehicle is at slower speeds or for engine vibrations, but only for high speeds.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'It shall not raise false alarms when vehicle is at slower speeds or for engine vibrations, but only for high speeds.'.",
+            "Core Data Cleaning and Filtering FR5 Bandpass Filter Application The system shall use Bandpass Filtering of sensor data to separate the signal of road-induced vibration by eliminating low-frequency vehicle body motion and high-frequency sensor noise.": "Regarding the requirement for 'Core Data Cleaning and Filtering FR5 Bandpass Filter Application The system shall use Bandpass Filtering of sensor data to separate the signal of road-induced vibration by eliminating low-frequency vehicle body motion and high-frequency sensor noise.', we will apply our successful experience from project CAP-003 in the 'Road Construction' domain. For that project, we delivered: 'Project 3: Road Construction deployment for client'. This was completed in 2020 for an Federal Govt client with a contract value of PKR 177M (which is backed by our ISO 27001 certification). We will bring this same reliable approach and expertise to ensure your project succeeds.",
+            "Core FR6 Road Condition Classification To detect anomalies, the system shall run a trained machine learning model (1D CNN) on the filtered sensor data and categorize it accordingly.": "Regarding the requirement for 'Core FR6 Road Condition Classification To detect anomalies, the system shall run a trained machine learning model (1D CNN) on the filtered sensor data and categorize it accordingly.', we will apply our successful experience from project CAP-003 in the 'Road Construction' domain. For that project, we delivered: 'Project 3: Road Construction deployment for client'. This was completed in 2020 for an Federal Govt client with a contract value of PKR 177M (which is backed by our ISO 27001 certification). We will bring this same reliable approach and expertise to ensure your project succeeds.",
+            "Core Road Anomaly Detection FR7 Road Vibration Analysis The system shall process accelerometer and gyroscope data to recognize patterns that indicate a road anomaly using vibration thresholds.": "Regarding the requirement for 'Core Road Anomaly Detection FR7 Road Vibration Analysis The system shall process accelerometer and gyroscope data to recognize patterns that indicate a road anomaly using vibration thresholds.', we will apply our successful experience from project CAP-003 in the 'Road Construction' domain. For that project, we delivered: 'Project 3: Road Construction deployment for client'. This was completed in 2020 for an Federal Govt client with a contract value of PKR 177M (which is backed by our ISO 27001 certification). We will bring this same reliable approach and expertise to ensure your project succeeds.",
+            "Core FR8 Anomaly Marking and Storage The system shall mark each identified road anomaly with GPS coordinates in real time and store the data locally for each anomaly.": "Regarding the requirement for 'Core FR8 Anomaly Marking and Storage The system shall mark each identified road anomaly with GPS coordinates in real time and store the data locally for each anomaly.', we will apply our successful experience from project CAP-003 in the 'Road Construction' domain. For that project, we delivered: 'Project 3: Road Construction deployment for client'. This was completed in 2020 for an Federal Govt client with a contract value of PKR 177M (which is backed by our ISO 27001 certification). We will bring this same reliable approach and expertise to ensure your project succeeds.",
+            "Core Communication and Data Handling FR9 Data Transmission The system shall send collected data to the central server via Wi-Fi regularly.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Core Communication and Data Handling FR9 Data Transmission The system shall send collected data to the central server via Wi-Fi regularly.'."
+        },
+        "is_deleted": true
+    },
+    "611c9651-be74-41b1-8eb6-ecdb0b4756b6": {
+        "id": "611c9651-be74-41b1-8eb6-ecdb0b4756b6",
+        "name": "RoadBounce",
+        "sector": "Construction",
+        "budget": 10.0,
+        "deadline": "2026-12-31",
+        "compliance_pct": 10.0,
+        "win_probability": 72.0,
+        "status": "GO",
+        "manual_hours_saved": 104.0,
+        "requirements": [
+            {
+                "text": "It requires a big setup, which can be expensive.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Before the drone can fly, the Pixhawk requires careful configuration through Mission Planner software.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Although the device supports USB Type-C adapter, it requires a Power Delivery (PD) source capable of supplying 5V at up to 5A, which is not supported by standard chargers.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "It is similar to Ubuntu Server, providing only a terminal interface where all tasks must be performed using text commands.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Functional Requirements The functional requirements of the Autonomous Drone Delivery System describe the main capabilities the system must possess to operate safely, efficiently, and reliably.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "The system must support autonomous navigation using onboard sensors and intelligent algorithms to fly accurately across diverse environments.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "It must ensure secure payload handling and precise delivery to designated locations.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "PAGE 47 --- Requirement Specification and Analysis 28 Table 2.1: Functional Requirements ID Name Description Type User Interface (React Frontend) FR1 User Registration and Login The system shall allow users to reg- ister and authenticate using a web- based interface before placing deliv- ery orders.",
+                "status": "Pass",
+                "matched_cap": "CAP-047",
+                "score": 0.2712,
+                "evidence": {
+                    "cap_id": "CAP-047",
+                    "domain": "Mobile Banking",
+                    "summary": "Project 47: Mobile Banking deployment for client",
+                    "certification": "CE Mark",
+                    "year_completed": 2023,
+                    "contract_value": "PKR 41M",
+                    "client_type": "International"
+                }
+            },
+            {
+                "text": "Core FR2 Order Placement The system shall allow authenticated users to place a delivery order by se- lecting a delivery location and pack- age type through an interactive map interface.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Core FR3 Location Selection via Map The system shall allow users to select delivery coordinates by clicking on a map, triggering a form populated with the selected location.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            }
+        ],
+        "drafts": {
+            "It requires a big setup, which can be expensive.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'It requires a big setup, which can be expensive.'.",
+            "Before the drone can fly, the Pixhawk requires careful configuration through Mission Planner software.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Before the drone can fly, the Pixhawk requires careful configuration through Mission Planner software.'.",
+            "Although the device supports USB Type-C adapter, it requires a Power Delivery (PD) source capable of supplying 5V at up to 5A, which is not supported by standard chargers.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Although the device supports USB Type-C adapter, it requires a Power Delivery (PD) source capable of supplying 5V at up to 5A, which is not supported by standard chargers.'.",
+            "It is similar to Ubuntu Server, providing only a terminal interface where all tasks must be performed using text commands.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'It is similar to Ubuntu Server, providing only a terminal interface where all tasks must be performed using text commands.'.",
+            "Functional Requirements The functional requirements of the Autonomous Drone Delivery System describe the main capabilities the system must possess to operate safely, efficiently, and reliably.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Functional Requirements The functional requirements of the Autonomous Drone Delivery System describe the main capabilities the system must possess to operate safely, efficiently, and reliably.'.",
+            "The system must support autonomous navigation using onboard sensors and intelligent algorithms to fly accurately across diverse environments.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'The system must support autonomous navigation using onboard sensors and intelligent algorithms to fly accurately across diverse environments.'.",
+            "It must ensure secure payload handling and precise delivery to designated locations.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'It must ensure secure payload handling and precise delivery to designated locations.'.",
+            "PAGE 47 --- Requirement Specification and Analysis 28 Table 2.1: Functional Requirements ID Name Description Type User Interface (React Frontend) FR1 User Registration and Login The system shall allow users to reg- ister and authenticate using a web- based interface before placing deliv- ery orders.": "Regarding the requirement for 'PAGE 47 --- Requirement Specification and Analysis 28 Table 2.1: Functional Requirements ID Name Description Type User Interface (React Frontend) FR1 User Registration and Login The system shall allow users to reg- ister and authenticate using a web- based interface before placing deliv- ery orders.', we will apply our successful experience from project CAP-047 in the 'Mobile Banking' domain. For that project, we delivered: 'Project 47: Mobile Banking deployment for client'. This was completed in 2023 for an International client with a contract value of PKR 41M (which is backed by our CE Mark certification). We will bring this same reliable approach and expertise to ensure your project succeeds.",
+            "Core FR2 Order Placement The system shall allow authenticated users to place a delivery order by se- lecting a delivery location and pack- age type through an interactive map interface.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Core FR2 Order Placement The system shall allow authenticated users to place a delivery order by se- lecting a delivery location and pack- age type through an interactive map interface.'.",
+            "Core FR3 Location Selection via Map The system shall allow users to select delivery coordinates by clicking on a map, triggering a form populated with the selected location.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Core FR3 Location Selection via Map The system shall allow users to select delivery coordinates by clicking on a map, triggering a form populated with the selected location.'."
+        },
+        "is_deleted": true,
+        "financial_analysis": {
+            "executive_summary": "The RoadBounce bid is evaluated against a PKR 10.0M contract (~$36,000 USD). 1 of 10 requirements are matched (10.0% compliance). 9 confirmed gap(s) and 0 pending requirement(s) reduce expected revenue. Estimated development cost is $41,100. Financial viability is assessed as Financially Risky with a profitability score of 15/100.",
+            "features_table": [
+                {
+                    "feature": "It requires a big setup, which can be expensive.",
+                    "status": "Missing",
+                    "priority": "High",
+                    "estimated_value_usd": 3600,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                },
+                {
+                    "feature": "Before the drone can fly, the Pixhawk requires careful configuration through Mis",
+                    "status": "Missing",
+                    "priority": "High",
+                    "estimated_value_usd": 3600,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                },
+                {
+                    "feature": "Although the device supports USB Type-C adapter, it requires a Power Delivery (P",
+                    "status": "Missing",
+                    "priority": "High",
+                    "estimated_value_usd": 3600,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                },
+                {
+                    "feature": "It is similar to Ubuntu Server, providing only a terminal interface where all ta",
+                    "status": "Missing",
+                    "priority": "High",
+                    "estimated_value_usd": 3600,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                },
+                {
+                    "feature": "Functional Requirements The functional requirements of the Autonomous Drone Deli",
+                    "status": "Missing",
+                    "priority": "High",
+                    "estimated_value_usd": 3600,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                },
+                {
+                    "feature": "The system must support autonomous navigation using onboard sensors and intellig",
+                    "status": "Missing",
+                    "priority": "High",
+                    "estimated_value_usd": 3600,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                },
+                {
+                    "feature": "It must ensure secure payload handling and precise delivery to designated locati",
+                    "status": "Missing",
+                    "priority": "High",
+                    "estimated_value_usd": 3600,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                },
+                {
+                    "feature": "PAGE 47 --- Requirement Specification and Analysis 28 Table 2.1: Functional Requ",
+                    "status": "Completed",
+                    "priority": "High",
+                    "estimated_value_usd": 3600,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                },
+                {
+                    "feature": "Core FR2 Order Placement The system shall allow authenticated users to place a d",
+                    "status": "Missing",
+                    "priority": "High",
+                    "estimated_value_usd": 3600,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                },
+                {
+                    "feature": "Core FR3 Location Selection via Map The system shall allow users to select deliv",
+                    "status": "Missing",
+                    "priority": "High",
+                    "estimated_value_usd": 3600,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                }
+            ],
+            "missing_features_impact": [
+                {
+                    "feature": "It requires a big setup, which can be expensive.",
+                    "monetary_loss_usd": 3600,
+                    "value_reduction_pct": 10.0,
+                    "business_impact": "Confirmed capability gap. Organisation lacks matching evidence. This requirement will be scored zero by the evaluator unless a collaboration partner is engaged."
+                },
+                {
+                    "feature": "Before the drone can fly, the Pixhawk requires careful configuration through Mis",
+                    "monetary_loss_usd": 3600,
+                    "value_reduction_pct": 10.0,
+                    "business_impact": "Confirmed capability gap. Organisation lacks matching evidence. This requirement will be scored zero by the evaluator unless a collaboration partner is engaged."
+                },
+                {
+                    "feature": "Although the device supports USB Type-C adapter, it requires a Power Delivery (P",
+                    "monetary_loss_usd": 3600,
+                    "value_reduction_pct": 10.0,
+                    "business_impact": "Confirmed capability gap. Organisation lacks matching evidence. This requirement will be scored zero by the evaluator unless a collaboration partner is engaged."
+                },
+                {
+                    "feature": "It is similar to Ubuntu Server, providing only a terminal interface where all ta",
+                    "monetary_loss_usd": 3600,
+                    "value_reduction_pct": 10.0,
+                    "business_impact": "Confirmed capability gap. Organisation lacks matching evidence. This requirement will be scored zero by the evaluator unless a collaboration partner is engaged."
+                },
+                {
+                    "feature": "Functional Requirements The functional requirements of the Autonomous Drone Deli",
+                    "monetary_loss_usd": 3600,
+                    "value_reduction_pct": 10.0,
+                    "business_impact": "Confirmed capability gap. Organisation lacks matching evidence. This requirement will be scored zero by the evaluator unless a collaboration partner is engaged."
+                },
+                {
+                    "feature": "The system must support autonomous navigation using onboard sensors and intellig",
+                    "monetary_loss_usd": 3600,
+                    "value_reduction_pct": 10.0,
+                    "business_impact": "Confirmed capability gap. Organisation lacks matching evidence. This requirement will be scored zero by the evaluator unless a collaboration partner is engaged."
+                },
+                {
+                    "feature": "It must ensure secure payload handling and precise delivery to designated locati",
+                    "monetary_loss_usd": 3600,
+                    "value_reduction_pct": 10.0,
+                    "business_impact": "Confirmed capability gap. Organisation lacks matching evidence. This requirement will be scored zero by the evaluator unless a collaboration partner is engaged."
+                },
+                {
+                    "feature": "Core FR2 Order Placement The system shall allow authenticated users to place a d",
+                    "monetary_loss_usd": 3600,
+                    "value_reduction_pct": 10.0,
+                    "business_impact": "Confirmed capability gap. Organisation lacks matching evidence. This requirement will be scored zero by the evaluator unless a collaboration partner is engaged."
+                },
+                {
+                    "feature": "Core FR3 Location Selection via Map The system shall allow users to select deliv",
+                    "monetary_loss_usd": 3600,
+                    "value_reduction_pct": 10.0,
+                    "business_impact": "Confirmed capability gap. Organisation lacks matching evidence. This requirement will be scored zero by the evaluator unless a collaboration partner is engaged."
+                }
+            ],
+            "cost_breakdown": {
+                "total_dev_cost_usd": 30000,
+                "infrastructure_cost_usd": 3600,
+                "integration_cost_usd": 1500,
+                "testing_qa_cost_usd": 4500,
+                "project_management_cost_usd": 3000,
+                "total_cost_usd": 41100
+            },
+            "revenue_profit": {
+                "total_project_value_usd": 36000,
+                "expected_revenue_usd": 3600,
+                "estimated_profit_usd": -37500,
+                "profit_margin_pct": -1041.7,
+                "break_even_months": 137
+            },
+            "roi": {
+                "roi_pct": -91.2,
+                "roi_explanation": "Based on 10.0% effective requirement coverage, for every $1 invested in development, the risk-adjusted return is $0.09.",
+                "payback_period": "137 months"
+            },
+            "financial_risks": [
+                {
+                    "risk": "Unresolved / pending requirements",
+                    "severity": "Low",
+                    "likelihood": "Low",
+                    "financial_impact_usd": 0,
+                    "mitigation": "Run AI Analysis to resolve 0 pending requirement(s) against the capability library."
+                },
+                {
+                    "risk": "Confirmed capability gaps",
+                    "severity": "High",
+                    "likelihood": "High",
+                    "financial_impact_usd": 32400,
+                    "mitigation": "Engage collaboration partners for missing certifications and capabilities. Use the Gap Collaboration feature in each failed requirement."
+                },
+                {
+                    "risk": "Scope creep",
+                    "severity": "Medium",
+                    "likelihood": "Medium",
+                    "financial_impact_usd": 8220,
+                    "mitigation": "Lock requirements at contract signing and use a formal change-order process for any additions."
+                },
+                {
+                    "risk": "Timeline overrun",
+                    "severity": "Medium",
+                    "likelihood": "Low",
+                    "financial_impact_usd": 4110,
+                    "mitigation": "Build a 15% buffer into all project timeline estimates. Milestone-based invoicing reduces exposure."
+                }
+            ],
+            "profitability_score": 15,
+            "profitability_label": "Financially Risky",
+            "recommendations": [
+                "Compliance rate is fully resolved — focus on proposal quality.",
+                "Address 9 confirmed gap(s) through the Gap Collaboration feature to add subcontractor/partner coverage.",
+                "Negotiate contract payment milestones tied to deliverable completion to reduce cash-flow risk.",
+                "Win probability is currently 72.0% — improving compliance rate and proposal quality are the two levers most correlated with higher win rates.",
+                "Use the AI drafting and Review & Approve workflow to reduce proposal preparation time by 50%+ and improve submission quality."
+            ],
+            "final_statement": "Based on the uploaded proposal, the estimated project value is $36,000. The current implementation covers 10.0% of the required functionality (1 matched, 9 gaps, 0 pending analysis). Unresolved and missing requirements put 90.0% of the project's financial value at risk. The risk-adjusted expected profit margin is -1041.7%, making the project Financially Risky with a profitability score of 15/100."
+        },
+        "draft_reviews": {}
+    },
+    "163f1a5e-18c1-4b98-bdc5-b2d8cdbd64a9": {
+        "id": "163f1a5e-18c1-4b98-bdc5-b2d8cdbd64a9",
+        "name": "EIHUH",
+        "sector": "Construction",
+        "budget": 10.0,
+        "deadline": "2026-12-31",
+        "compliance_pct": 20.0,
+        "win_probability": 76.0,
+        "status": "GO",
+        "manual_hours_saved": 19.0,
+        "requirements": [
+            {
+                "text": "In the event of any conflict or inconsistency in terms and conditions of the RFQ and the KRN Policy and Procedures, the KRN Policy and Procedures shall prevail.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Each bidder shall be responsible for conducting its own investigation and analysis and should check the accuracy, reliability and completeness of this RFQ and where necessary obtain independent advice.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "In case of conflict between the provisions of this RFQ and A ddendum(s) to the RF Q, the provisions of this RFQ shall prevail unless stated otherwise.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "In case of any conflict between the provisions of this RF Q, the decision of Karandaaz Pakistan shall be final regarding the overriding effect of the respective provision.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "PAGE 3 --- 2 The entire set s of documents, as mentioned in Clause 11 Section 2 must be submitted in hard copies and in electronic format through email with subject: “Supply, Installation, and Maintenance of Enterprise Routers” on or before 18th June 2026.",
+                "status": "Pass",
+                "matched_cap": "CAP-011",
+                "score": 0.3836,
+                "evidence": {
+                    "cap_id": "CAP-011",
+                    "domain": "Mobile Banking",
+                    "summary": "Project 11: Mobile Banking deployment for client",
+                    "certification": "CE Mark",
+                    "year_completed": 2019,
+                    "contract_value": "PKR 85M",
+                    "client_type": "Private Sector"
+                }
+            },
+            {
+                "text": "Bidders must prepare four hard copies of the technical proposal and four hard copies of the financial proposal, and submit them in four separate sealed envelopes to the attention of ‘The Procurement Department’ 1 -E, Ali Plaza, D Chowk, Mezzanine Floor, Nazimuddin Road, Blue Area, Islamabad, Pakistan.",
+                "status": "Pass",
+                "matched_cap": "CAP-003",
+                "score": 0.6669,
+                "evidence": {
+                    "cap_id": "CAP-003",
+                    "domain": "Road Construction",
+                    "summary": "Project 3: Road Construction deployment for client",
+                    "certification": "ISO 27001",
+                    "year_completed": 2020,
+                    "contract_value": "PKR 177M",
+                    "client_type": "Federal Govt"
+                }
+            },
+            {
+                "text": "Bidders must also submit electronic copies of technical & financial proposals in four separate folders through email at procurement@karandaaz.com.pk.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Bidders must submit password protected electronic copies of financial proposal.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "“Day” means calendar day 2 Fraud and Corruption Bidders shall comply with Karandaaz Pakistan’s policy regarding fraud and corruption set out in Section 3 of the RFQ.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Bidders shall be under an obligation to disclose to Karandaaz Pakistan any situation of actual or potential conflict that impacts their capacity to perform/act in accordance with Karandaaz Pakistan’s best interests or pose a conflict of interest.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            }
+        ],
+        "drafts": {
+            "In the event of any conflict or inconsistency in terms and conditions of the RFQ and the KRN Policy and Procedures, the KRN Policy and Procedures shall prevail.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'In the event of any conflict or inconsistency in terms and conditions of the RFQ and the KRN Policy and Procedures, the KRN Policy and Procedures shall prevail.'.",
+            "Each bidder shall be responsible for conducting its own investigation and analysis and should check the accuracy, reliability and completeness of this RFQ and where necessary obtain independent advice.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Each bidder shall be responsible for conducting its own investigation and analysis and should check the accuracy, reliability and completeness of this RFQ and where necessary obtain independent advice.'.",
+            "In case of conflict between the provisions of this RFQ and A ddendum(s) to the RF Q, the provisions of this RFQ shall prevail unless stated otherwise.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'In case of conflict between the provisions of this RFQ and A ddendum(s) to the RF Q, the provisions of this RFQ shall prevail unless stated otherwise.'.",
+            "In case of any conflict between the provisions of this RF Q, the decision of Karandaaz Pakistan shall be final regarding the overriding effect of the respective provision.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'In case of any conflict between the provisions of this RF Q, the decision of Karandaaz Pakistan shall be final regarding the overriding effect of the respective provision.'.",
+            "PAGE 3 --- 2 The entire set s of documents, as mentioned in Clause 11 Section 2 must be submitted in hard copies and in electronic format through email with subject: “Supply, Installation, and Maintenance of Enterprise Routers” on or before 18th June 2026.": "Regarding the requirement for 'PAGE 3 --- 2 The entire set s of documents, as mentioned in Clause 11 Section 2 must be submitted in hard copies and in electronic format through email with subject: “Supply, Installation, and Maintenance of Enterprise Routers” on or before 18th June 2026.', we will apply our successful experience from project CAP-011 in the 'Mobile Banking' domain. For that project, we delivered: 'Project 11: Mobile Banking deployment for client'. This was completed in 2019 for an Private Sector client with a contract value of PKR 85M (which is backed by our CE Mark certification). We will bring this same reliable approach and expertise to ensure your project succeeds.",
+            "Bidders must prepare four hard copies of the technical proposal and four hard copies of the financial proposal, and submit them in four separate sealed envelopes to the attention of ‘The Procurement Department’ 1 -E, Ali Plaza, D Chowk, Mezzanine Floor, Nazimuddin Road, Blue Area, Islamabad, Pakistan.": "Regarding the requirement for 'Bidders must prepare four hard copies of the technical proposal and four hard copies of the financial proposal, and submit them in four separate sealed envelopes to the attention of ‘The Procurement Department’ 1 -E, Ali Plaza, D Chowk, Mezzanine Floor, Nazimuddin Road, Blue Area, Islamabad, Pakistan.', we will apply our successful experience from project CAP-003 in the 'Road Construction' domain. For that project, we delivered: 'Project 3: Road Construction deployment for client'. This was completed in 2020 for an Federal Govt client with a contract value of PKR 177M (which is backed by our ISO 27001 certification). We will bring this same reliable approach and expertise to ensure your project succeeds.",
+            "Bidders must also submit electronic copies of technical & financial proposals in four separate folders through email at procurement@karandaaz.com.pk.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Bidders must also submit electronic copies of technical & financial proposals in four separate folders through email at procurement@karandaaz.com.pk.'.",
+            "Bidders must submit password protected electronic copies of financial proposal.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Bidders must submit password protected electronic copies of financial proposal.'.",
+            "“Day” means calendar day 2 Fraud and Corruption Bidders shall comply with Karandaaz Pakistan’s policy regarding fraud and corruption set out in Section 3 of the RFQ.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: '“Day” means calendar day 2 Fraud and Corruption Bidders shall comply with Karandaaz Pakistan’s policy regarding fraud and corruption set out in Section 3 of the RFQ.'.",
+            "Bidders shall be under an obligation to disclose to Karandaaz Pakistan any situation of actual or potential conflict that impacts their capacity to perform/act in accordance with Karandaaz Pakistan’s best interests or pose a conflict of interest.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Bidders shall be under an obligation to disclose to Karandaaz Pakistan any situation of actual or potential conflict that impacts their capacity to perform/act in accordance with Karandaaz Pakistan’s best interests or pose a conflict of interest.'."
+        },
+        "is_deleted": true
+    },
+    "c84367d2-13e1-439d-9414-5e7704ed09de": {
+        "id": "c84367d2-13e1-439d-9414-5e7704ed09de",
+        "name": "Prime Logic",
+        "sector": "Construction",
+        "budget": 10.0,
+        "deadline": "2026-12-31",
+        "compliance_pct": 20.0,
+        "win_probability": 76.0,
+        "status": "GO",
+        "manual_hours_saved": 19.0,
+        "requirements": [
+            {
+                "text": "In the event of any conflict or inconsistency in terms and conditions of the RFQ and the KRN Policy and Procedures, the KRN Policy and Procedures shall prevail.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Each bidder shall be responsible for conducting its own investigation and analysis and should check the accuracy, reliability and completeness of this RFQ and where necessary obtain independent advice.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "In case of conflict between the provisions of this RFQ and A ddendum(s) to the RF Q, the provisions of this RFQ shall prevail unless stated otherwise.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "In case of any conflict between the provisions of this RF Q, the decision of Karandaaz Pakistan shall be final regarding the overriding effect of the respective provision.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "PAGE 3 --- 2 The entire set s of documents, as mentioned in Clause 11 Section 2 must be submitted in hard copies and in electronic format through email with subject: “Supply, Installation, and Maintenance of Enterprise Routers” on or before 18th June 2026.",
+                "status": "Pass",
+                "matched_cap": "CAP-011",
+                "score": 0.3836,
+                "evidence": {
+                    "cap_id": "CAP-011",
+                    "domain": "Mobile Banking",
+                    "summary": "Project 11: Mobile Banking deployment for client",
+                    "certification": "CE Mark",
+                    "year_completed": 2019,
+                    "contract_value": "PKR 85M",
+                    "client_type": "Private Sector"
+                }
+            },
+            {
+                "text": "Bidders must prepare four hard copies of the technical proposal and four hard copies of the financial proposal, and submit them in four separate sealed envelopes to the attention of ‘The Procurement Department’ 1 -E, Ali Plaza, D Chowk, Mezzanine Floor, Nazimuddin Road, Blue Area, Islamabad, Pakistan.",
+                "status": "Pass",
+                "matched_cap": "CAP-003",
+                "score": 0.6669,
+                "evidence": {
+                    "cap_id": "CAP-003",
+                    "domain": "Road Construction",
+                    "summary": "Project 3: Road Construction deployment for client",
+                    "certification": "ISO 27001",
+                    "year_completed": 2020,
+                    "contract_value": "PKR 177M",
+                    "client_type": "Federal Govt"
+                }
+            },
+            {
+                "text": "Bidders must also submit electronic copies of technical & financial proposals in four separate folders through email at procurement@karandaaz.com.pk.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Bidders must submit password protected electronic copies of financial proposal.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "“Day” means calendar day 2 Fraud and Corruption Bidders shall comply with Karandaaz Pakistan’s policy regarding fraud and corruption set out in Section 3 of the RFQ.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Bidders shall be under an obligation to disclose to Karandaaz Pakistan any situation of actual or potential conflict that impacts their capacity to perform/act in accordance with Karandaaz Pakistan’s best interests or pose a conflict of interest.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            }
+        ],
+        "drafts": {
+            "In the event of any conflict or inconsistency in terms and conditions of the RFQ and the KRN Policy and Procedures, the KRN Policy and Procedures shall prevail.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'In the event of any conflict or inconsistency in terms and conditions of the RFQ and the KRN Policy and Procedures, the KRN Policy and Procedures shall prevail.'.",
+            "Each bidder shall be responsible for conducting its own investigation and analysis and should check the accuracy, reliability and completeness of this RFQ and where necessary obtain independent advice.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Each bidder shall be responsible for conducting its own investigation and analysis and should check the accuracy, reliability and completeness of this RFQ and where necessary obtain independent advice.'.",
+            "In case of conflict between the provisions of this RFQ and A ddendum(s) to the RF Q, the provisions of this RFQ shall prevail unless stated otherwise.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'In case of conflict between the provisions of this RFQ and A ddendum(s) to the RF Q, the provisions of this RFQ shall prevail unless stated otherwise.'.",
+            "In case of any conflict between the provisions of this RF Q, the decision of Karandaaz Pakistan shall be final regarding the overriding effect of the respective provision.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'In case of any conflict between the provisions of this RF Q, the decision of Karandaaz Pakistan shall be final regarding the overriding effect of the respective provision.'.",
+            "PAGE 3 --- 2 The entire set s of documents, as mentioned in Clause 11 Section 2 must be submitted in hard copies and in electronic format through email with subject: “Supply, Installation, and Maintenance of Enterprise Routers” on or before 18th June 2026.": "Regarding the requirement for 'PAGE 3 --- 2 The entire set s of documents, as mentioned in Clause 11 Section 2 must be submitted in hard copies and in electronic format through email with subject: “Supply, Installation, and Maintenance of Enterprise Routers” on or before 18th June 2026.', we will apply our successful experience from project CAP-011 in the 'Mobile Banking' domain. For that project, we delivered: 'Project 11: Mobile Banking deployment for client'. This was completed in 2019 for an Private Sector client with a contract value of PKR 85M (which is backed by our CE Mark certification). We will bring this same reliable approach and expertise to ensure your project succeeds.",
+            "Bidders must prepare four hard copies of the technical proposal and four hard copies of the financial proposal, and submit them in four separate sealed envelopes to the attention of ‘The Procurement Department’ 1 -E, Ali Plaza, D Chowk, Mezzanine Floor, Nazimuddin Road, Blue Area, Islamabad, Pakistan.": "Regarding the requirement for 'Bidders must prepare four hard copies of the technical proposal and four hard copies of the financial proposal, and submit them in four separate sealed envelopes to the attention of ‘The Procurement Department’ 1 -E, Ali Plaza, D Chowk, Mezzanine Floor, Nazimuddin Road, Blue Area, Islamabad, Pakistan.', we will apply our successful experience from project CAP-003 in the 'Road Construction' domain. For that project, we delivered: 'Project 3: Road Construction deployment for client'. This was completed in 2020 for an Federal Govt client with a contract value of PKR 177M (which is backed by our ISO 27001 certification). We will bring this same reliable approach and expertise to ensure your project succeeds.",
+            "Bidders must also submit electronic copies of technical & financial proposals in four separate folders through email at procurement@karandaaz.com.pk.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Bidders must also submit electronic copies of technical & financial proposals in four separate folders through email at procurement@karandaaz.com.pk.'.",
+            "Bidders must submit password protected electronic copies of financial proposal.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Bidders must submit password protected electronic copies of financial proposal.'.",
+            "“Day” means calendar day 2 Fraud and Corruption Bidders shall comply with Karandaaz Pakistan’s policy regarding fraud and corruption set out in Section 3 of the RFQ.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: '“Day” means calendar day 2 Fraud and Corruption Bidders shall comply with Karandaaz Pakistan’s policy regarding fraud and corruption set out in Section 3 of the RFQ.'.",
+            "Bidders shall be under an obligation to disclose to Karandaaz Pakistan any situation of actual or potential conflict that impacts their capacity to perform/act in accordance with Karandaaz Pakistan’s best interests or pose a conflict of interest.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Bidders shall be under an obligation to disclose to Karandaaz Pakistan any situation of actual or potential conflict that impacts their capacity to perform/act in accordance with Karandaaz Pakistan’s best interests or pose a conflict of interest.'."
+        },
+        "is_deleted": true
+    },
+    "513ffea1-4619-48a6-9938-c3b213e44344": {
+        "id": "513ffea1-4619-48a6-9938-c3b213e44344",
+        "name": "Prime Logic",
+        "sector": "Construction",
+        "budget": 10.0,
+        "deadline": "2026-12-31",
+        "compliance_pct": 20.0,
+        "win_probability": 76.0,
+        "status": "GO",
+        "manual_hours_saved": 19.0,
+        "requirements": [
+            {
+                "text": "In the event of any conflict or inconsistency in terms and conditions of the RFQ and the KRN Policy and Procedures, the KRN Policy and Procedures shall prevail.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Each bidder shall be responsible for conducting its own investigation and analysis and should check the accuracy, reliability and completeness of this RFQ and where necessary obtain independent advice.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "In case of conflict between the provisions of this RFQ and A ddendum(s) to the RF Q, the provisions of this RFQ shall prevail unless stated otherwise.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "In case of any conflict between the provisions of this RF Q, the decision of Karandaaz Pakistan shall be final regarding the overriding effect of the respective provision.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "PAGE 3 --- 2 The entire set s of documents, as mentioned in Clause 11 Section 2 must be submitted in hard copies and in electronic format through email with subject: “Supply, Installation, and Maintenance of Enterprise Routers” on or before 18th June 2026.",
+                "status": "Pass",
+                "matched_cap": "CAP-011",
+                "score": 0.3836,
+                "evidence": {
+                    "cap_id": "CAP-011",
+                    "domain": "Mobile Banking",
+                    "summary": "Project 11: Mobile Banking deployment for client",
+                    "certification": "CE Mark",
+                    "year_completed": 2019,
+                    "contract_value": "PKR 85M",
+                    "client_type": "Private Sector"
+                }
+            },
+            {
+                "text": "Bidders must prepare four hard copies of the technical proposal and four hard copies of the financial proposal, and submit them in four separate sealed envelopes to the attention of ‘The Procurement Department’ 1 -E, Ali Plaza, D Chowk, Mezzanine Floor, Nazimuddin Road, Blue Area, Islamabad, Pakistan.",
+                "status": "Pass",
+                "matched_cap": "CAP-003",
+                "score": 0.6669,
+                "evidence": {
+                    "cap_id": "CAP-003",
+                    "domain": "Road Construction",
+                    "summary": "Project 3: Road Construction deployment for client",
+                    "certification": "ISO 27001",
+                    "year_completed": 2020,
+                    "contract_value": "PKR 177M",
+                    "client_type": "Federal Govt"
+                }
+            },
+            {
+                "text": "Bidders must also submit electronic copies of technical & financial proposals in four separate folders through email at procurement@karandaaz.com.pk.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Bidders must submit password protected electronic copies of financial proposal.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "“Day” means calendar day 2 Fraud and Corruption Bidders shall comply with Karandaaz Pakistan’s policy regarding fraud and corruption set out in Section 3 of the RFQ.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Bidders shall be under an obligation to disclose to Karandaaz Pakistan any situation of actual or potential conflict that impacts their capacity to perform/act in accordance with Karandaaz Pakistan’s best interests or pose a conflict of interest.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            }
+        ],
+        "drafts": {
+            "In the event of any conflict or inconsistency in terms and conditions of the RFQ and the KRN Policy and Procedures, the KRN Policy and Procedures shall prevail.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'In the event of any conflict or inconsistency in terms and conditions of the RFQ and the KRN Policy and Procedures, the KRN Policy and Procedures shall prevail.'.",
+            "Each bidder shall be responsible for conducting its own investigation and analysis and should check the accuracy, reliability and completeness of this RFQ and where necessary obtain independent advice.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Each bidder shall be responsible for conducting its own investigation and analysis and should check the accuracy, reliability and completeness of this RFQ and where necessary obtain independent advice.'.",
+            "In case of conflict between the provisions of this RFQ and A ddendum(s) to the RF Q, the provisions of this RFQ shall prevail unless stated otherwise.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'In case of conflict between the provisions of this RFQ and A ddendum(s) to the RF Q, the provisions of this RFQ shall prevail unless stated otherwise.'.",
+            "In case of any conflict between the provisions of this RF Q, the decision of Karandaaz Pakistan shall be final regarding the overriding effect of the respective provision.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'In case of any conflict between the provisions of this RF Q, the decision of Karandaaz Pakistan shall be final regarding the overriding effect of the respective provision.'.",
+            "PAGE 3 --- 2 The entire set s of documents, as mentioned in Clause 11 Section 2 must be submitted in hard copies and in electronic format through email with subject: “Supply, Installation, and Maintenance of Enterprise Routers” on or before 18th June 2026.": "Regarding the requirement for 'PAGE 3 --- 2 The entire set s of documents, as mentioned in Clause 11 Section 2 must be submitted in hard copies and in electronic format through email with subject: “Supply, Installation, and Maintenance of Enterprise Routers” on or before 18th June 2026.', we will apply our successful experience from project CAP-011 in the 'Mobile Banking' domain. For that project, we delivered: 'Project 11: Mobile Banking deployment for client'. This was completed in 2019 for an Private Sector client with a contract value of PKR 85M (which is backed by our CE Mark certification). We will bring this same reliable approach and expertise to ensure your project succeeds.",
+            "Bidders must prepare four hard copies of the technical proposal and four hard copies of the financial proposal, and submit them in four separate sealed envelopes to the attention of ‘The Procurement Department’ 1 -E, Ali Plaza, D Chowk, Mezzanine Floor, Nazimuddin Road, Blue Area, Islamabad, Pakistan.": "Regarding the requirement for 'Bidders must prepare four hard copies of the technical proposal and four hard copies of the financial proposal, and submit them in four separate sealed envelopes to the attention of ‘The Procurement Department’ 1 -E, Ali Plaza, D Chowk, Mezzanine Floor, Nazimuddin Road, Blue Area, Islamabad, Pakistan.', we will apply our successful experience from project CAP-003 in the 'Road Construction' domain. For that project, we delivered: 'Project 3: Road Construction deployment for client'. This was completed in 2020 for an Federal Govt client with a contract value of PKR 177M (which is backed by our ISO 27001 certification). We will bring this same reliable approach and expertise to ensure your project succeeds.",
+            "Bidders must also submit electronic copies of technical & financial proposals in four separate folders through email at procurement@karandaaz.com.pk.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Bidders must also submit electronic copies of technical & financial proposals in four separate folders through email at procurement@karandaaz.com.pk.'.",
+            "Bidders must submit password protected electronic copies of financial proposal.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Bidders must submit password protected electronic copies of financial proposal.'.",
+            "“Day” means calendar day 2 Fraud and Corruption Bidders shall comply with Karandaaz Pakistan’s policy regarding fraud and corruption set out in Section 3 of the RFQ.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: '“Day” means calendar day 2 Fraud and Corruption Bidders shall comply with Karandaaz Pakistan’s policy regarding fraud and corruption set out in Section 3 of the RFQ.'.",
+            "Bidders shall be under an obligation to disclose to Karandaaz Pakistan any situation of actual or potential conflict that impacts their capacity to perform/act in accordance with Karandaaz Pakistan’s best interests or pose a conflict of interest.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Bidders shall be under an obligation to disclose to Karandaaz Pakistan any situation of actual or potential conflict that impacts their capacity to perform/act in accordance with Karandaaz Pakistan’s best interests or pose a conflict of interest.'."
+        },
+        "is_deleted": true,
+        "draft_reviews": {}
+    },
+    "acab7806-603b-4b56-8b1a-80ca9b19ac98": {
+        "id": "acab7806-603b-4b56-8b1a-80ca9b19ac98",
+        "name": "Prime Logic",
+        "sector": "Construction",
+        "budget": 10.0,
+        "deadline": "2026-12-31",
+        "compliance_pct": 20.0,
+        "win_probability": 76.0,
+        "status": "GO",
+        "manual_hours_saved": 19.0,
+        "requirements": [
+            {
+                "text": "In the event of any conflict or inconsistency in terms and conditions of the RFQ and the KRN Policy and Procedures, the KRN Policy and Procedures shall prevail.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Each bidder shall be responsible for conducting its own investigation and analysis and should check the accuracy, reliability and completeness of this RFQ and where necessary obtain independent advice.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "In case of conflict between the provisions of this RFQ and A ddendum(s) to the RF Q, the provisions of this RFQ shall prevail unless stated otherwise.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "In case of any conflict between the provisions of this RF Q, the decision of Karandaaz Pakistan shall be final regarding the overriding effect of the respective provision.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "PAGE 3 --- 2 The entire set s of documents, as mentioned in Clause 11 Section 2 must be submitted in hard copies and in electronic format through email with subject: “Supply, Installation, and Maintenance of Enterprise Routers” on or before 18th June 2026.",
+                "status": "Pass",
+                "matched_cap": "CAP-011",
+                "score": 0.3836,
+                "evidence": {
+                    "cap_id": "CAP-011",
+                    "domain": "Mobile Banking",
+                    "summary": "Project 11: Mobile Banking deployment for client",
+                    "certification": "CE Mark",
+                    "year_completed": 2019,
+                    "contract_value": "PKR 85M",
+                    "client_type": "Private Sector"
+                }
+            },
+            {
+                "text": "Bidders must prepare four hard copies of the technical proposal and four hard copies of the financial proposal, and submit them in four separate sealed envelopes to the attention of ‘The Procurement Department’ 1 -E, Ali Plaza, D Chowk, Mezzanine Floor, Nazimuddin Road, Blue Area, Islamabad, Pakistan.",
+                "status": "Pass",
+                "matched_cap": "CAP-003",
+                "score": 0.6669,
+                "evidence": {
+                    "cap_id": "CAP-003",
+                    "domain": "Road Construction",
+                    "summary": "Project 3: Road Construction deployment for client",
+                    "certification": "ISO 27001",
+                    "year_completed": 2020,
+                    "contract_value": "PKR 177M",
+                    "client_type": "Federal Govt"
+                }
+            },
+            {
+                "text": "Bidders must also submit electronic copies of technical & financial proposals in four separate folders through email at procurement@karandaaz.com.pk.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Bidders must submit password protected electronic copies of financial proposal.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "“Day” means calendar day 2 Fraud and Corruption Bidders shall comply with Karandaaz Pakistan’s policy regarding fraud and corruption set out in Section 3 of the RFQ.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Bidders shall be under an obligation to disclose to Karandaaz Pakistan any situation of actual or potential conflict that impacts their capacity to perform/act in accordance with Karandaaz Pakistan’s best interests or pose a conflict of interest.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            }
+        ],
+        "drafts": {
+            "In the event of any conflict or inconsistency in terms and conditions of the RFQ and the KRN Policy and Procedures, the KRN Policy and Procedures shall prevail.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'In the event of any conflict or inconsistency in terms and conditions of the RFQ and the KRN Policy and Procedures, the KRN Policy and Procedures shall prevail.'.",
+            "Each bidder shall be responsible for conducting its own investigation and analysis and should check the accuracy, reliability and completeness of this RFQ and where necessary obtain independent advice.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Each bidder shall be responsible for conducting its own investigation and analysis and should check the accuracy, reliability and completeness of this RFQ and where necessary obtain independent advice.'.",
+            "In case of conflict between the provisions of this RFQ and A ddendum(s) to the RF Q, the provisions of this RFQ shall prevail unless stated otherwise.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'In case of conflict between the provisions of this RFQ and A ddendum(s) to the RF Q, the provisions of this RFQ shall prevail unless stated otherwise.'.",
+            "In case of any conflict between the provisions of this RF Q, the decision of Karandaaz Pakistan shall be final regarding the overriding effect of the respective provision.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'In case of any conflict between the provisions of this RF Q, the decision of Karandaaz Pakistan shall be final regarding the overriding effect of the respective provision.'.",
+            "PAGE 3 --- 2 The entire set s of documents, as mentioned in Clause 11 Section 2 must be submitted in hard copies and in electronic format through email with subject: “Supply, Installation, and Maintenance of Enterprise Routers” on or before 18th June 2026.": "Regarding the requirement for 'PAGE 3 --- 2 The entire set s of documents, as mentioned in Clause 11 Section 2 must be submitted in hard copies and in electronic format through email with subject: “Supply, Installation, and Maintenance of Enterprise Routers” on or before 18th June 2026.', we will apply our successful experience from project CAP-011 in the 'Mobile Banking' domain. For that project, we delivered: 'Project 11: Mobile Banking deployment for client'. This was completed in 2019 for an Private Sector client with a contract value of PKR 85M (which is backed by our CE Mark certification). We will bring this same reliable approach and expertise to ensure your project succeeds.",
+            "Bidders must prepare four hard copies of the technical proposal and four hard copies of the financial proposal, and submit them in four separate sealed envelopes to the attention of ‘The Procurement Department’ 1 -E, Ali Plaza, D Chowk, Mezzanine Floor, Nazimuddin Road, Blue Area, Islamabad, Pakistan.": "Regarding the requirement for 'Bidders must prepare four hard copies of the technical proposal and four hard copies of the financial proposal, and submit them in four separate sealed envelopes to the attention of ‘The Procurement Department’ 1 -E, Ali Plaza, D Chowk, Mezzanine Floor, Nazimuddin Road, Blue Area, Islamabad, Pakistan.', we will apply our successful experience from project CAP-003 in the 'Road Construction' domain. For that project, we delivered: 'Project 3: Road Construction deployment for client'. This was completed in 2020 for an Federal Govt client with a contract value of PKR 177M (which is backed by our ISO 27001 certification). We will bring this same reliable approach and expertise to ensure your project succeeds.",
+            "Bidders must also submit electronic copies of technical & financial proposals in four separate folders through email at procurement@karandaaz.com.pk.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Bidders must also submit electronic copies of technical & financial proposals in four separate folders through email at procurement@karandaaz.com.pk.'.",
+            "Bidders must submit password protected electronic copies of financial proposal.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Bidders must submit password protected electronic copies of financial proposal.'.",
+            "“Day” means calendar day 2 Fraud and Corruption Bidders shall comply with Karandaaz Pakistan’s policy regarding fraud and corruption set out in Section 3 of the RFQ.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: '“Day” means calendar day 2 Fraud and Corruption Bidders shall comply with Karandaaz Pakistan’s policy regarding fraud and corruption set out in Section 3 of the RFQ.'.",
+            "Bidders shall be under an obligation to disclose to Karandaaz Pakistan any situation of actual or potential conflict that impacts their capacity to perform/act in accordance with Karandaaz Pakistan’s best interests or pose a conflict of interest.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Bidders shall be under an obligation to disclose to Karandaaz Pakistan any situation of actual or potential conflict that impacts their capacity to perform/act in accordance with Karandaaz Pakistan’s best interests or pose a conflict of interest.'."
+        },
+        "is_deleted": true,
+        "draft_reviews": {},
+        "financial_analysis": {
+            "executive_summary": "The Prime Logic bid is evaluated against a PKR 10.0M contract (~$36,000 USD). 2 of 10 requirements are matched (20.0% compliance). 8 confirmed gap(s) and 0 pending requirement(s) reduce expected revenue. Estimated development cost is $41,100. Financial viability is assessed as Financially Risky with a profitability score of 19/100.",
+            "features_table": [
+                {
+                    "feature": "In the event of any conflict or inconsistency in terms and conditions of the RFQ",
+                    "status": "Missing",
+                    "priority": "High",
+                    "estimated_value_usd": 3600,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                },
+                {
+                    "feature": "Each bidder shall be responsible for conducting its own investigation and analys",
+                    "status": "Missing",
+                    "priority": "High",
+                    "estimated_value_usd": 3600,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                },
+                {
+                    "feature": "In case of conflict between the provisions of this RFQ and A ddendum(s) to the R",
+                    "status": "Missing",
+                    "priority": "High",
+                    "estimated_value_usd": 3600,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                },
+                {
+                    "feature": "In case of any conflict between the provisions of this RF Q, the decision of Kar",
+                    "status": "Missing",
+                    "priority": "High",
+                    "estimated_value_usd": 3600,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                },
+                {
+                    "feature": "PAGE 3 --- 2 The entire set s of documents, as mentioned in Clause 11 Section 2 ",
+                    "status": "Completed",
+                    "priority": "High",
+                    "estimated_value_usd": 3600,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                },
+                {
+                    "feature": "Bidders must prepare four hard copies of the technical proposal and four hard co",
+                    "status": "Completed",
+                    "priority": "High",
+                    "estimated_value_usd": 3600,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                },
+                {
+                    "feature": "Bidders must also submit electronic copies of technical & financial proposals in",
+                    "status": "Missing",
+                    "priority": "High",
+                    "estimated_value_usd": 3600,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                },
+                {
+                    "feature": "Bidders must submit password protected electronic copies of financial proposal.",
+                    "status": "Missing",
+                    "priority": "High",
+                    "estimated_value_usd": 3600,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                },
+                {
+                    "feature": "“Day” means calendar day 2 Fraud and Corruption Bidders shall comply with Karand",
+                    "status": "Missing",
+                    "priority": "High",
+                    "estimated_value_usd": 3600,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                },
+                {
+                    "feature": "Bidders shall be under an obligation to disclose to Karandaaz Pakistan any situa",
+                    "status": "Missing",
+                    "priority": "High",
+                    "estimated_value_usd": 3600,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                }
+            ],
+            "missing_features_impact": [
+                {
+                    "feature": "In the event of any conflict or inconsistency in terms and conditions of the RFQ",
+                    "monetary_loss_usd": 3600,
+                    "value_reduction_pct": 10.0,
+                    "business_impact": "Confirmed capability gap. Organisation lacks matching evidence. This requirement will be scored zero by the evaluator unless a collaboration partner is engaged."
+                },
+                {
+                    "feature": "Each bidder shall be responsible for conducting its own investigation and analys",
+                    "monetary_loss_usd": 3600,
+                    "value_reduction_pct": 10.0,
+                    "business_impact": "Confirmed capability gap. Organisation lacks matching evidence. This requirement will be scored zero by the evaluator unless a collaboration partner is engaged."
+                },
+                {
+                    "feature": "In case of conflict between the provisions of this RFQ and A ddendum(s) to the R",
+                    "monetary_loss_usd": 3600,
+                    "value_reduction_pct": 10.0,
+                    "business_impact": "Confirmed capability gap. Organisation lacks matching evidence. This requirement will be scored zero by the evaluator unless a collaboration partner is engaged."
+                },
+                {
+                    "feature": "In case of any conflict between the provisions of this RF Q, the decision of Kar",
+                    "monetary_loss_usd": 3600,
+                    "value_reduction_pct": 10.0,
+                    "business_impact": "Confirmed capability gap. Organisation lacks matching evidence. This requirement will be scored zero by the evaluator unless a collaboration partner is engaged."
+                },
+                {
+                    "feature": "Bidders must also submit electronic copies of technical & financial proposals in",
+                    "monetary_loss_usd": 3600,
+                    "value_reduction_pct": 10.0,
+                    "business_impact": "Confirmed capability gap. Organisation lacks matching evidence. This requirement will be scored zero by the evaluator unless a collaboration partner is engaged."
+                },
+                {
+                    "feature": "Bidders must submit password protected electronic copies of financial proposal.",
+                    "monetary_loss_usd": 3600,
+                    "value_reduction_pct": 10.0,
+                    "business_impact": "Confirmed capability gap. Organisation lacks matching evidence. This requirement will be scored zero by the evaluator unless a collaboration partner is engaged."
+                },
+                {
+                    "feature": "“Day” means calendar day 2 Fraud and Corruption Bidders shall comply with Karand",
+                    "monetary_loss_usd": 3600,
+                    "value_reduction_pct": 10.0,
+                    "business_impact": "Confirmed capability gap. Organisation lacks matching evidence. This requirement will be scored zero by the evaluator unless a collaboration partner is engaged."
+                },
+                {
+                    "feature": "Bidders shall be under an obligation to disclose to Karandaaz Pakistan any situa",
+                    "monetary_loss_usd": 3600,
+                    "value_reduction_pct": 10.0,
+                    "business_impact": "Confirmed capability gap. Organisation lacks matching evidence. This requirement will be scored zero by the evaluator unless a collaboration partner is engaged."
+                }
+            ],
+            "cost_breakdown": {
+                "total_dev_cost_usd": 30000,
+                "infrastructure_cost_usd": 3600,
+                "integration_cost_usd": 1500,
+                "testing_qa_cost_usd": 4500,
+                "project_management_cost_usd": 3000,
+                "total_cost_usd": 41100
+            },
+            "revenue_profit": {
+                "total_project_value_usd": 36000,
+                "expected_revenue_usd": 7200,
+                "estimated_profit_usd": -33900,
+                "profit_margin_pct": -470.8,
+                "break_even_months": 68
+            },
+            "roi": {
+                "roi_pct": -82.5,
+                "roi_explanation": "Based on 20.0% effective requirement coverage, for every $1 invested in development, the risk-adjusted return is $0.18.",
+                "payback_period": "68 months"
+            },
+            "financial_risks": [
+                {
+                    "risk": "Unresolved / pending requirements",
+                    "severity": "Low",
+                    "likelihood": "Low",
+                    "financial_impact_usd": 0,
+                    "mitigation": "Run AI Analysis to resolve 0 pending requirement(s) against the capability library."
+                },
+                {
+                    "risk": "Confirmed capability gaps",
+                    "severity": "High",
+                    "likelihood": "High",
+                    "financial_impact_usd": 28800,
+                    "mitigation": "Engage collaboration partners for missing certifications and capabilities. Use the Gap Collaboration feature in each failed requirement."
+                },
+                {
+                    "risk": "Scope creep",
+                    "severity": "Medium",
+                    "likelihood": "Medium",
+                    "financial_impact_usd": 8220,
+                    "mitigation": "Lock requirements at contract signing and use a formal change-order process for any additions."
+                },
+                {
+                    "risk": "Timeline overrun",
+                    "severity": "Medium",
+                    "likelihood": "Low",
+                    "financial_impact_usd": 4110,
+                    "mitigation": "Build a 15% buffer into all project timeline estimates. Milestone-based invoicing reduces exposure."
+                }
+            ],
+            "profitability_score": 19,
+            "profitability_label": "Financially Risky",
+            "recommendations": [
+                "Compliance rate is fully resolved — focus on proposal quality.",
+                "Address 8 confirmed gap(s) through the Gap Collaboration feature to add subcontractor/partner coverage.",
+                "Negotiate contract payment milestones tied to deliverable completion to reduce cash-flow risk.",
+                "Win probability is currently 76.0% — improving compliance rate and proposal quality are the two levers most correlated with higher win rates.",
+                "Use the AI drafting and Review & Approve workflow to reduce proposal preparation time by 50%+ and improve submission quality."
+            ],
+            "final_statement": "Based on the uploaded proposal, the estimated project value is $36,000. The current implementation covers 20.0% of the required functionality (2 matched, 8 gaps, 0 pending analysis). Unresolved and missing requirements put 80.0% of the project's financial value at risk. The risk-adjusted expected profit margin is -470.8%, making the project Financially Risky with a profitability score of 19/100."
+        }
+    },
+    "b7d26f79-705d-4b4a-a91e-0b119aac8a49": {
+        "id": "b7d26f79-705d-4b4a-a91e-0b119aac8a49",
+        "name": "RoadBounce",
+        "sector": "Construction",
+        "budget": 10.0,
+        "deadline": "2026-12-31",
+        "compliance_pct": 50.0,
+        "win_probability": 73.0,
+        "status": "GO",
+        "manual_hours_saved": 4.0,
+        "requirements": [
+            {
+                "text": "Kindly reduce the firm registration time up to 3 x years under Technical Pre-qualification Criteria for the attached tender Bidders are required to provide proof that they are a firm/company registered or incorporated in Pakistan for the last five (5) years, as specified in the RFQ 7.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Technical BoQ mentions 3 Years Hardware & Software with NBD Support while the Scope of work point 3.9 mentions Supplier must commit to the OEM backed SLA, for all scope requirements for 24 x 7 coverage with a four -hour hardware replacement time.",
+                "status": "Pass",
+                "matched_cap": "CAP-024",
+                "score": 0.3836,
+                "evidence": {
+                    "cap_id": "CAP-024",
+                    "domain": "Cloud Infrastructure",
+                    "summary": "Project 24: Cloud Infrastructure deployment for client",
+                    "certification": "CE Mark",
+                    "year_completed": 2020,
+                    "contract_value": "PKR 158M",
+                    "client_type": "Provincial Govt"
+                }
+            }
+        ],
+        "drafts": {
+            "Kindly reduce the firm registration time up to 3 x years under Technical Pre-qualification Criteria for the attached tender Bidders are required to provide proof that they are a firm/company registered or incorporated in Pakistan for the last five (5) years, as specified in the RFQ 7.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Kindly reduce the firm registration time up to 3 x years under Technical Pre-qualification Criteria for the attached tender Bidders are required to provide proof that they are a firm/company registered or incorporated in Pakistan for the last five (5) years, as specified in the RFQ 7.'.",
+            "Technical BoQ mentions 3 Years Hardware & Software with NBD Support while the Scope of work point 3.9 mentions Supplier must commit to the OEM backed SLA, for all scope requirements for 24 x 7 coverage with a four -hour hardware replacement time.": "Regarding the requirement for 'Technical BoQ mentions 3 Years Hardware & Software with NBD Support while the Scope of work point 3.9 mentions Supplier must commit to the OEM backed SLA, for all scope requirements for 24 x 7 coverage with a four -hour hardware replacement time.', we will apply our successful experience from project CAP-024 in the 'Cloud Infrastructure' domain. For that project, we delivered: 'Project 24: Cloud Infrastructure deployment for client'. This was completed in 2020 for an Provincial Govt client with a contract value of PKR 158M (which is backed by our CE Mark certification). We will bring this same reliable approach and expertise to ensure your project succeeds."
+        },
+        "is_deleted": false,
+        "draft_reviews": {},
+        "financial_analysis": {
+            "executive_summary": "The RoadBounce bid is evaluated against a PKR 10.0M contract (~$36,000 USD). 1 of 2 requirements are matched (50.0% compliance). 1 confirmed gap(s) and 0 pending requirement(s) reduce expected revenue. Estimated development cost is $8,220. Financial viability is assessed as Moderately Profitable with a profitability score of 67/100.",
+            "features_table": [
+                {
+                    "feature": "Kindly reduce the firm registration time up to 3 x years under Technical Pre-qua",
+                    "status": "Missing",
+                    "priority": "High",
+                    "estimated_value_usd": 18000,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                },
+                {
+                    "feature": "Technical BoQ mentions 3 Years Hardware & Software with NBD Support while the Sc",
+                    "status": "Completed",
+                    "priority": "High",
+                    "estimated_value_usd": 18000,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                }
+            ],
+            "missing_features_impact": [
+                {
+                    "feature": "Kindly reduce the firm registration time up to 3 x years under Technical Pre-qua",
+                    "monetary_loss_usd": 18000,
+                    "value_reduction_pct": 50.0,
+                    "business_impact": "Confirmed capability gap. Organisation lacks matching evidence. This requirement will be scored zero by the evaluator unless a collaboration partner is engaged."
+                }
+            ],
+            "cost_breakdown": {
+                "total_dev_cost_usd": 6000,
+                "infrastructure_cost_usd": 720,
+                "integration_cost_usd": 300,
+                "testing_qa_cost_usd": 900,
+                "project_management_cost_usd": 600,
+                "total_cost_usd": 8220
+            },
+            "revenue_profit": {
+                "total_project_value_usd": 36000,
+                "expected_revenue_usd": 18000,
+                "estimated_profit_usd": 9780,
+                "profit_margin_pct": 54.3,
+                "break_even_months": 5
+            },
+            "roi": {
+                "roi_pct": 119.0,
+                "roi_explanation": "Based on 50.0% effective requirement coverage, for every $1 invested in development, the risk-adjusted return is $2.19.",
+                "payback_period": "5 months"
+            },
+            "financial_risks": [
+                {
+                    "risk": "Unresolved / pending requirements",
+                    "severity": "Low",
+                    "likelihood": "Low",
+                    "financial_impact_usd": 0,
+                    "mitigation": "Run AI Analysis to resolve 0 pending requirement(s) against the capability library."
+                },
+                {
+                    "risk": "Confirmed capability gaps",
+                    "severity": "Medium",
+                    "likelihood": "High",
+                    "financial_impact_usd": 18000,
+                    "mitigation": "Engage collaboration partners for missing certifications and capabilities. Use the Gap Collaboration feature in each failed requirement."
+                },
+                {
+                    "risk": "Scope creep",
+                    "severity": "Medium",
+                    "likelihood": "Medium",
+                    "financial_impact_usd": 1644,
+                    "mitigation": "Lock requirements at contract signing and use a formal change-order process for any additions."
+                },
+                {
+                    "risk": "Timeline overrun",
+                    "severity": "Medium",
+                    "likelihood": "Low",
+                    "financial_impact_usd": 822,
+                    "mitigation": "Build a 15% buffer into all project timeline estimates. Milestone-based invoicing reduces exposure."
+                }
+            ],
+            "profitability_score": 67,
+            "profitability_label": "Moderately Profitable",
+            "recommendations": [
+                "Compliance rate is fully resolved — focus on proposal quality.",
+                "Address 1 confirmed gap(s) through the Gap Collaboration feature to add subcontractor/partner coverage.",
+                "Negotiate contract payment milestones tied to deliverable completion to reduce cash-flow risk.",
+                "Win probability is currently 73.0% — improving compliance rate and proposal quality are the two levers most correlated with higher win rates.",
+                "Use the AI drafting and Review & Approve workflow to reduce proposal preparation time by 50%+ and improve submission quality."
+            ],
+            "final_statement": "Based on the uploaded proposal, the estimated project value is $36,000. The current implementation covers 50.0% of the required functionality (1 matched, 1 gaps, 0 pending analysis). Unresolved and missing requirements put 50.0% of the project's financial value at risk. The risk-adjusted expected profit margin is 54.3%, making the project Moderately Profitable with a profitability score of 67/100."
+        }
+    },
+    "db7f79be-78eb-4210-878d-9e962553d2e1": {
+        "id": "db7f79be-78eb-4210-878d-9e962553d2e1",
+        "name": "hackathon",
+        "sector": "Construction",
+        "budget": 10.0,
+        "deadline": "2026-12-31",
+        "compliance_pct": 50.0,
+        "win_probability": 73.0,
+        "status": "GO",
+        "manual_hours_saved": 4.0,
+        "requirements": [
+            {
+                "text": "Kindly reduce the firm registration time up to 3 x years under Technical Pre-qualification Criteria for the attached tender Bidders are required to provide proof that they are a firm/company registered or incorporated in Pakistan for the last five (5) years, as specified in the RFQ 7.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Technical BoQ mentions 3 Years Hardware & Software with NBD Support while the Scope of work point 3.9 mentions Supplier must commit to the OEM backed SLA, for all scope requirements for 24 x 7 coverage with a four -hour hardware replacement time.",
+                "status": "Pass",
+                "matched_cap": "CAP-024",
+                "score": 0.3836,
+                "evidence": {
+                    "cap_id": "CAP-024",
+                    "domain": "Cloud Infrastructure",
+                    "summary": "Project 24: Cloud Infrastructure deployment for client",
+                    "certification": "CE Mark",
+                    "year_completed": 2020,
+                    "contract_value": "PKR 158M",
+                    "client_type": "Provincial Govt"
+                }
+            }
+        ],
+        "drafts": {
+            "Kindly reduce the firm registration time up to 3 x years under Technical Pre-qualification Criteria for the attached tender Bidders are required to provide proof that they are a firm/company registered or incorporated in Pakistan for the last five (5) years, as specified in the RFQ 7.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Kindly reduce the firm registration time up to 3 x years under Technical Pre-qualification Criteria for the attached tender Bidders are required to provide proof that they are a firm/company registered or incorporated in Pakistan for the last five (5) years, as specified in the RFQ 7.'.",
+            "Technical BoQ mentions 3 Years Hardware & Software with NBD Support while the Scope of work point 3.9 mentions Supplier must commit to the OEM backed SLA, for all scope requirements for 24 x 7 coverage with a four -hour hardware replacement time.": "Regarding the requirement for 'Technical BoQ mentions 3 Years Hardware & Software with NBD Support while the Scope of work point 3.9 mentions Supplier must commit to the OEM backed SLA, for all scope requirements for 24 x 7 coverage with a four -hour hardware replacement time.', we will apply our successful experience from project CAP-024 in the 'Cloud Infrastructure' domain. For that project, we delivered: 'Project 24: Cloud Infrastructure deployment for client'. This was completed in 2020 for an Provincial Govt client with a contract value of PKR 158M (which is backed by our CE Mark certification). We will bring this same reliable approach and expertise to ensure your project succeeds."
+        },
+        "is_deleted": false,
+        "draft_reviews": {},
+        "financial_analysis": {
+            "executive_summary": "The hackathon bid is evaluated against a PKR 10.0M contract (~$36,000 USD). 1 of 2 requirements are matched (50.0% compliance). 1 confirmed gap(s) and 0 pending requirement(s) reduce expected revenue. Estimated development cost is $8,220. Financial viability is assessed as Moderately Profitable with a profitability score of 67/100.",
+            "features_table": [
+                {
+                    "feature": "Kindly reduce the firm registration time up to 3 x years under Technical Pre-qua",
+                    "status": "Missing",
+                    "priority": "High",
+                    "estimated_value_usd": 18000,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                },
+                {
+                    "feature": "Technical BoQ mentions 3 Years Hardware & Software with NBD Support while the Sc",
+                    "status": "Completed",
+                    "priority": "High",
+                    "estimated_value_usd": 18000,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                }
+            ],
+            "missing_features_impact": [
+                {
+                    "feature": "Kindly reduce the firm registration time up to 3 x years under Technical Pre-qua",
+                    "monetary_loss_usd": 18000,
+                    "value_reduction_pct": 50.0,
+                    "business_impact": "Confirmed capability gap. Organisation lacks matching evidence. This requirement will be scored zero by the evaluator unless a collaboration partner is engaged."
+                }
+            ],
+            "cost_breakdown": {
+                "total_dev_cost_usd": 6000,
+                "infrastructure_cost_usd": 720,
+                "integration_cost_usd": 300,
+                "testing_qa_cost_usd": 900,
+                "project_management_cost_usd": 600,
+                "total_cost_usd": 8220
+            },
+            "revenue_profit": {
+                "total_project_value_usd": 36000,
+                "expected_revenue_usd": 18000,
+                "estimated_profit_usd": 9780,
+                "profit_margin_pct": 54.3,
+                "break_even_months": 5
+            },
+            "roi": {
+                "roi_pct": 119.0,
+                "roi_explanation": "Based on 50.0% effective requirement coverage, for every $1 invested in development, the risk-adjusted return is $2.19.",
+                "payback_period": "5 months"
+            },
+            "financial_risks": [
+                {
+                    "risk": "Unresolved / pending requirements",
+                    "severity": "Low",
+                    "likelihood": "Low",
+                    "financial_impact_usd": 0,
+                    "mitigation": "Run AI Analysis to resolve 0 pending requirement(s) against the capability library."
+                },
+                {
+                    "risk": "Confirmed capability gaps",
+                    "severity": "Medium",
+                    "likelihood": "High",
+                    "financial_impact_usd": 18000,
+                    "mitigation": "Engage collaboration partners for missing certifications and capabilities. Use the Gap Collaboration feature in each failed requirement."
+                },
+                {
+                    "risk": "Scope creep",
+                    "severity": "Medium",
+                    "likelihood": "Medium",
+                    "financial_impact_usd": 1644,
+                    "mitigation": "Lock requirements at contract signing and use a formal change-order process for any additions."
+                },
+                {
+                    "risk": "Timeline overrun",
+                    "severity": "Medium",
+                    "likelihood": "Low",
+                    "financial_impact_usd": 822,
+                    "mitigation": "Build a 15% buffer into all project timeline estimates. Milestone-based invoicing reduces exposure."
+                }
+            ],
+            "profitability_score": 67,
+            "profitability_label": "Moderately Profitable",
+            "recommendations": [
+                "Compliance rate is fully resolved — focus on proposal quality.",
+                "Address 1 confirmed gap(s) through the Gap Collaboration feature to add subcontractor/partner coverage.",
+                "Negotiate contract payment milestones tied to deliverable completion to reduce cash-flow risk.",
+                "Win probability is currently 73.0% — improving compliance rate and proposal quality are the two levers most correlated with higher win rates.",
+                "Use the AI drafting and Review & Approve workflow to reduce proposal preparation time by 50%+ and improve submission quality."
+            ],
+            "final_statement": "Based on the uploaded proposal, the estimated project value is $36,000. The current implementation covers 50.0% of the required functionality (1 matched, 1 gaps, 0 pending analysis). Unresolved and missing requirements put 50.0% of the project's financial value at risk. The risk-adjusted expected profit margin is 54.3%, making the project Moderately Profitable with a profitability score of 67/100."
+        }
+    },
+    "57c27c9b-92ee-410a-951a-04fde76fd19f": {
+        "id": "57c27c9b-92ee-410a-951a-04fde76fd19f",
+        "name": "w1",
+        "sector": "Construction",
+        "budget": 10.0,
+        "deadline": "2026-12-31",
+        "compliance_pct": 50.0,
+        "win_probability": 73.0,
+        "status": "GO",
+        "manual_hours_saved": 4.0,
+        "requirements": [
+            {
+                "text": "Kindly reduce the firm registration time up to 3 x years under Technical Pre-qualification Criteria for the attached tender Bidders are required to provide proof that they are a firm/company registered or incorporated in Pakistan for the last five (5) years, as specified in the RFQ 7.",
+                "status": "Fail",
+                "matched_cap": null,
+                "score": 0.0,
+                "evidence": null
+            },
+            {
+                "text": "Technical BoQ mentions 3 Years Hardware & Software with NBD Support while the Scope of work point 3.9 mentions Supplier must commit to the OEM backed SLA, for all scope requirements for 24 x 7 coverage with a four -hour hardware replacement time.",
+                "status": "Pass",
+                "matched_cap": "CAP-024",
+                "score": 0.3836,
+                "evidence": {
+                    "cap_id": "CAP-024",
+                    "domain": "Cloud Infrastructure",
+                    "summary": "Project 24: Cloud Infrastructure deployment for client",
+                    "certification": "CE Mark",
+                    "year_completed": 2020,
+                    "contract_value": "PKR 158M",
+                    "client_type": "Provincial Govt"
+                }
+            }
+        ],
+        "drafts": {
+            "Kindly reduce the firm registration time up to 3 x years under Technical Pre-qualification Criteria for the attached tender Bidders are required to provide proof that they are a firm/company registered or incorporated in Pakistan for the last five (5) years, as specified in the RFQ 7.": "WARNING: We currently do not have matching project experience or certifications in our capability database to support the requirement: 'Kindly reduce the firm registration time up to 3 x years under Technical Pre-qualification Criteria for the attached tender Bidders are required to provide proof that they are a firm/company registered or incorporated in Pakistan for the last five (5) years, as specified in the RFQ 7.'.",
+            "Technical BoQ mentions 3 Years Hardware & Software with NBD Support while the Scope of work point 3.9 mentions Supplier must commit to the OEM backed SLA, for all scope requirements for 24 x 7 coverage with a four -hour hardware replacement time.": "Regarding the requirement for 'Technical BoQ mentions 3 Years Hardware & Software with NBD Support while the Scope of work point 3.9 mentions Supplier must commit to the OEM backed SLA, for all scope requirements for 24 x 7 coverage with a four -hour hardware replacement time.', we will apply our successful experience from project CAP-024 in the 'Cloud Infrastructure' domain. For that project, we delivered: 'Project 24: Cloud Infrastructure deployment for client'. This was completed in 2020 for an Provincial Govt client with a contract value of PKR 158M (which is backed by our CE Mark certification). We will bring this same reliable approach and expertise to ensure your project succeeds."
+        },
+        "is_deleted": false,
+        "draft_reviews": {
+            "Technical BoQ mentions 3 Years Hardware & Software with NBD Support while the Scope of work point 3.9 mentions Supplier must commit to the OEM backed SLA, for all scope requirements for 24 x 7 coverage with a four -hour hardware replacement time.": {
+                "approval_status": "approved",
+                "reviewer_comment": "",
+                "edited_after_approval": false
+            }
+        },
+        "financial_analysis": {
+            "executive_summary": "The w1 bid is evaluated against a PKR 10.0M contract (~$36,000 USD). 1 of 2 requirements are matched (50.0% compliance). 1 confirmed gap(s) and 0 pending requirement(s) reduce expected revenue. Estimated development cost is $8,220. Financial viability is assessed as Moderately Profitable with a profitability score of 67/100.",
+            "features_table": [
+                {
+                    "feature": "Kindly reduce the firm registration time up to 3 x years under Technical Pre-qua",
+                    "status": "Missing",
+                    "priority": "High",
+                    "estimated_value_usd": 18000,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                },
+                {
+                    "feature": "Technical BoQ mentions 3 Years Hardware & Software with NBD Support while the Sc",
+                    "status": "Completed",
+                    "priority": "High",
+                    "estimated_value_usd": 18000,
+                    "dev_hours": 120,
+                    "complexity": "Medium"
+                }
+            ],
+            "missing_features_impact": [
+                {
+                    "feature": "Kindly reduce the firm registration time up to 3 x years under Technical Pre-qua",
+                    "monetary_loss_usd": 18000,
+                    "value_reduction_pct": 50.0,
+                    "business_impact": "Confirmed capability gap. Organisation lacks matching evidence. This requirement will be scored zero by the evaluator unless a collaboration partner is engaged."
+                }
+            ],
+            "cost_breakdown": {
+                "total_dev_cost_usd": 6000,
+                "infrastructure_cost_usd": 720,
+                "integration_cost_usd": 300,
+                "testing_qa_cost_usd": 900,
+                "project_management_cost_usd": 600,
+                "total_cost_usd": 8220
+            },
+            "revenue_profit": {
+                "total_project_value_usd": 36000,
+                "expected_revenue_usd": 18000,
+                "estimated_profit_usd": 9780,
+                "profit_margin_pct": 54.3,
+                "break_even_months": 5
+            },
+            "roi": {
+                "roi_pct": 119.0,
+                "roi_explanation": "Based on 50.0% effective requirement coverage, for every $1 invested in development, the risk-adjusted return is $2.19.",
+                "payback_period": "5 months"
+            },
+            "financial_risks": [
+                {
+                    "risk": "Unresolved / pending requirements",
+                    "severity": "Low",
+                    "likelihood": "Low",
+                    "financial_impact_usd": 0,
+                    "mitigation": "Run AI Analysis to resolve 0 pending requirement(s) against the capability library."
+                },
+                {
+                    "risk": "Confirmed capability gaps",
+                    "severity": "Medium",
+                    "likelihood": "High",
+                    "financial_impact_usd": 18000,
+                    "mitigation": "Engage collaboration partners for missing certifications and capabilities. Use the Gap Collaboration feature in each failed requirement."
+                },
+                {
+                    "risk": "Scope creep",
+                    "severity": "Medium",
+                    "likelihood": "Medium",
+                    "financial_impact_usd": 1644,
+                    "mitigation": "Lock requirements at contract signing and use a formal change-order process for any additions."
+                },
+                {
+                    "risk": "Timeline overrun",
+                    "severity": "Medium",
+                    "likelihood": "Low",
+                    "financial_impact_usd": 822,
+                    "mitigation": "Build a 15% buffer into all project timeline estimates. Milestone-based invoicing reduces exposure."
+                }
+            ],
+            "profitability_score": 67,
+            "profitability_label": "Moderately Profitable",
+            "recommendations": [
+                "Compliance rate is fully resolved — focus on proposal quality.",
+                "Address 1 confirmed gap(s) through the Gap Collaboration feature to add subcontractor/partner coverage.",
+                "Negotiate contract payment milestones tied to deliverable completion to reduce cash-flow risk.",
+                "Win probability is currently 73.0% — improving compliance rate and proposal quality are the two levers most correlated with higher win rates.",
+                "Use the AI drafting and Review & Approve workflow to reduce proposal preparation time by 50%+ and improve submission quality."
+            ],
+            "final_statement": "Based on the uploaded proposal, the estimated project value is $36,000. The current implementation covers 50.0% of the required functionality (1 matched, 1 gaps, 0 pending analysis). Unresolved and missing requirements put 50.0% of the project's financial value at risk. The risk-adjusted expected profit margin is 54.3%, making the project Moderately Profitable with a profitability score of 67/100."
+        }
+    }
+}

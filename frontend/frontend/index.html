@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Bid & Proposal Engine</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app-container">
+
+    <!-- Sidebar -->
+    <aside class="sidebar glass-panel">
+        <div class="brand">
+            <i class="ph-fill ph-robot"></i>
+            <h2>Bid Engine</h2>
+        </div>
+        <button id="btn-new-workspace" class="btn-primary">
+            <i class="ph ph-plus"></i> New Workspace
+        </button>
+        <button id="btn-open-trash" class="btn-secondary" style="margin-top:10px;width:100%;">
+            <i class="ph ph-trash"></i> Recycle Bin
+        </button>
+        <div class="workspaces-list-container">
+            <h3>Workspaces</h3>
+            <ul id="workspaces-list" class="workspaces-list"></ul>
+        </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+
+        <!-- Header Dashboard -->
+        <header class="dashboard-header glass-panel" id="dashboard-header" style="display:none;">
+            <div class="workspace-info">
+                <div class="ws-name-row">
+                    <h1 id="ws-name">Workspace Name</h1>
+                    <div class="ws-action-btns">
+                        <button id="btn-edit-workspace" class="btn-icon btn-secondary" title="Edit Workspace">
+                            <i class="ph ph-pencil"></i>
+                        </button>
+                        <button id="btn-delete-workspace" class="btn-icon btn-danger" title="Move to Recycle Bin">
+                            <i class="ph ph-trash"></i>
+                        </button>
+                    </div>
+                </div>
+
+            </div>
+            <div class="metrics-container">
+                <div class="metric-card glass-panel">
+                    <div class="metric-title">Win Probability</div>
+                    <div class="speedometer">
+                        <div class="gauge">
+                            <div class="gauge-fill" id="win-gauge"></div>
+                            <div class="gauge-cover"></div>
+                        </div>
+                        <div class="gauge-value" id="win-value">0%</div>
+                    </div>
+                    <div class="status-badge" id="ws-status">NO-GO</div>
+                </div>
+                <div class="metric-card glass-panel">
+                    <div class="metric-title">Compliance Rate</div>
+                    <div class="metric-value" id="compliance-value">0%</div>
+                    <div class="metric-subtitle">Against Requirements</div>
+                </div>
+                <div class="metric-card glass-panel highlight-metric">
+                    <i class="ph-fill ph-clock metric-icon"></i>
+                    <div class="metric-title">Time Saved</div>
+                    <div class="metric-value highlight" id="hours-saved">0</div>
+                    <div class="metric-subtitle">Manual Hours</div>
+                </div>
+                <!-- Approval Progress Card -->
+                <div class="metric-card glass-panel approval-metric" id="approval-metric-card" style="display:none;">
+                    <i class="ph-fill ph-seal-check metric-icon" style="color:rgba(109,40,217,0.5);"></i>
+                    <div class="metric-title">Review Progress</div>
+                    <div class="metric-value" id="approval-progress-value" style="font-size:1.4rem;">0/0</div>
+                    <div class="approval-mini-bar">
+                        <div class="approval-mini-fill" id="approval-mini-fill"></div>
+                    </div>
+                    <div class="metric-subtitle" id="approval-progress-label">Sections Approved</div>
+                </div>
+            </div>
+        </header>
+
+        <div class="content-grid" id="content-grid" style="display:none;">
+
+            <!-- Left Column -->
+            <div class="left-col">
+                <div class="upload-section glass-panel">
+                    <h3><i class="ph-fill ph-file-pdf"></i> Ingest RFP Document</h3>
+
+                    <!-- Drop zone (shown when no file uploaded) -->
+                    <div class="drop-zone" id="drop-zone">
+                        <i class="ph ph-upload-simple"></i>
+                        <p>Drag & Drop RFP file here or <span class="browse-link">browse</span></p>
+                        <input type="file" id="file-input" accept=".pdf,.docx" hidden>
+                    </div>
+
+                    <!-- File preview (shown after successful upload) -->
+                    <div class="file-preview" id="file-preview" style="display:none;">
+                        <div class="fp-icon-wrap">
+                            <i class="ph-fill ph-file-pdf" id="fp-icon"></i>
+                        </div>
+                        <div class="fp-info">
+                            <div class="fp-name" id="fp-name">document.pdf</div>
+                            <div class="fp-meta" id="fp-meta">PDF · Ready to analyse</div>
+                        </div>
+                        <button class="fp-remove-btn" id="fp-remove-btn" title="Remove file and upload a different one">
+                            <i class="ph ph-x"></i>
+                        </button>
+                    </div>
+
+                    <div id="upload-status" class="upload-toast" style="display:none;">
+                        <i class="upload-toast-icon ph ph-warning-circle"></i>
+                        <span class="upload-toast-msg"></span>
+                    </div>
+                    <button id="btn-analyze" class="btn-action" disabled>
+                        <i class="ph-fill ph-magic-wand"></i> Run AI Analysis
+                    </button>
+                </div>
+
+                <div class="requirements-section glass-panel">
+                    <h3><i class="ph-fill ph-list-checks"></i> Requirements Checklist</h3>
+                    <div class="accordion" id="requirements-list">
+                        <div class="empty-state">No requirements loaded. Upload an RFP.</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Column: Tabbed Panel -->
+            <div class="right-col glass-panel" style="display:flex;flex-direction:column;">
+
+                <!-- Tab bar: 3 tabs -->
+                <div class="tab-header">
+                    <button id="tab-btn-edit" class="btn-tab active">
+                        <i class="ph ph-pencil-simple-line"></i> Edit Section
+                    </button>
+                    <button id="tab-btn-review" class="btn-tab">
+                        <i class="ph ph-seal-check"></i> Review &amp; Approve
+                    </button>
+                    <button id="tab-btn-preview" class="btn-tab">
+                        <i class="ph ph-eye"></i> Full Preview
+                    </button>
+                    <button id="tab-btn-finance" class="btn-tab">
+                        <i class="ph ph-chart-line-up"></i> Financial Analysis
+                    </button>
+                </div>
+
+                <!-- PANE 1: Edit -->
+                <div id="pane-edit" class="tab-pane active">
+                    <div class="editor-container">
+                        <div class="editor-req-context" id="editor-context">
+                            Select a requirement from the checklist to edit its AI-generated draft.
+                        </div>
+                        <textarea id="draft-editor" class="glass-input" style="flex-grow:1;min-height:220px;resize:none;" disabled></textarea>
+                        <div class="editor-actions">
+                            <span id="save-status" class="status-text" style="font-size:12px;"></span>
+                            <button id="btn-save-draft" class="btn-primary" disabled>
+                                <i class="ph ph-floppy-disk"></i> Save Draft
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- PANE 2: Review & Approve -->
+                <div id="pane-review" class="tab-pane" style="display:none;">
+
+                    <!-- Overall approval progress bar -->
+                    <div class="review-progress-banner" id="review-progress-banner">
+                        <div class="rpb-label">
+                            <i class="ph ph-seal-check"></i>
+                            <span id="rpb-text">Review all sections before exporting the proposal</span>
+                        </div>
+                        <div class="approval-bar-wrap">
+                            <div class="approval-bar-track">
+                                <div class="approval-bar-approved" id="approval-bar-approved"></div>
+                                <div class="approval-bar-rejected" id="approval-bar-rejected"></div>
+                            </div>
+                            <span id="rpb-counts" class="rpb-counts">0 approved · 0 rejected · 0 pending</span>
+                        </div>
+                    </div>
+
+                    <!-- Per-section review cards -->
+                    <div id="review-sections-list" class="review-sections-list">
+                        <div class="empty-state" style="padding:40px 0;">Run AI Analysis to generate drafts for review.</div>
+                    </div>
+                </div>
+
+                <!-- PANE 3: Full Preview & Export -->
+                <div id="pane-preview" class="tab-pane" style="display:none;flex-direction:column;flex-grow:1;">
+                    <div class="preview-container" style="display:flex;flex-direction:column;flex-grow:1;">
+                        <!-- Approval gate warning -->
+                        <div id="export-gate-warning" class="export-gate-warning" style="display:none;">
+                            <i class="ph-fill ph-warning"></i>
+                            <span id="export-gate-msg">Some sections are pending review. Approve all sections before exporting.</span>
+                        </div>
+                        <div id="full-proposal-preview" class="glass-input"
+                             style="flex-grow:1;min-height:250px;overflow-y:auto;padding:15px;margin-bottom:15px;border-radius:8px;background:rgba(0,0,0,0.2);">
+                        </div>
+                        <div style="display:flex;justify-content:flex-end;gap:10px;">
+                            <button id="btn-download-proposal" class="btn-primary"
+                                    style="background:linear-gradient(135deg,#28a745 0%,#218838 100%);border-color:#218838;">
+                                <i class="ph ph-download-simple"></i> Export Approved Proposal (.txt)
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- PANE 4: Financial Analysis -->
+                <div id="pane-finance" class="tab-pane" style="display:none;flex-direction:column;flex-grow:1;overflow-y:auto;">
+                    <!-- Trigger area (shown when no report yet) -->
+                    <div id="finance-empty-state" class="finance-empty-state">
+                        <i class="ph-fill ph-chart-line-up finance-empty-icon"></i>
+                        <div class="finance-empty-title">Financial Evaluation Report</div>
+                        <div class="finance-empty-sub">Run AI Analysis first, then generate a complete financial breakdown including ROI, cost estimates, profit margin and risk assessment.</div>
+                        <button id="btn-run-finance" class="btn-action" style="margin-top:16px;max-width:320px;" disabled>
+                            <i class="ph-fill ph-currency-dollar"></i> Generate Financial Report
+                        </button>
+                    </div>
+                    <!-- Report (shown after generation) -->
+                    <div id="finance-report" style="display:none;flex-direction:column;gap:0;"></div>
+                </div>
+
+            </div><!-- end right-col -->
+        </div><!-- end content-grid -->
+
+        <!-- Empty State -->
+        <div id="no-workspace-state" class="empty-workspace glass-panel">
+            <i class="ph-fill ph-rocket-launch"></i>
+            <h2>Welcome to AI Bid Engine</h2>
+            <p>Select a workspace from the sidebar or create a new one to get started.</p>
+        </div>
+
+    </main>
+</div>
+
+<!-- Modal: New Workspace -->
+<div id="create-modal" class="modal">
+    <div class="modal-content glass-panel">
+        <span class="close-modal">&times;</span>
+        <h2>Create New Workspace</h2>
+        <form id="create-ws-form">
+            <div class="form-group"><label>Workspace Name</label><input type="text" id="ws-input-name" class="glass-input" placeholder="e.g. Telecom Network Expansion" required autofocus></div>
+            <button type="submit" class="btn-primary w-full">Create</button>
+        </form>
+    </div>
+</div>
+
+<!-- Modal: Edit Workspace -->
+<div id="edit-modal" class="modal">
+    <div class="modal-content glass-panel">
+        <span class="close-modal-edit" style="cursor:pointer;float:right;font-size:24px;font-weight:bold;">&times;</span>
+        <h2>Edit Workspace Details</h2>
+        <form id="edit-ws-form">
+            <div class="form-group"><label>Project Name</label><input type="text" id="ws-edit-name" class="glass-input" required></div>
+            <div class="form-group"><label>Sector</label><input type="text" id="ws-edit-sector" class="glass-input" required></div>
+            <div class="form-group"><label>Budget (Millions)</label><input type="number" step="0.1" id="ws-edit-budget" class="glass-input" required></div>
+            <div class="form-group"><label>Deadline</label><input type="date" id="ws-edit-deadline" class="glass-input" required></div>
+            <button type="submit" class="btn-primary w-full">Save Changes</button>
+        </form>
+    </div>
+</div>
+
+<!-- Modal: Recycle Bin -->
+<div id="trash-modal" class="modal">
+    <div class="modal-content glass-panel" style="max-width:500px;">
+        <span class="close-modal-trash" style="cursor:pointer;float:right;font-size:24px;font-weight:bold;">&times;</span>
+        <h2>Recycle Bin</h2>
+        <div class="trash-list-container" style="max-height:300px;overflow-y:auto;margin-top:15px;">
+            <ul id="trash-list" style="list-style:none;padding:0;"></ul>
+        </div>
+    </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
